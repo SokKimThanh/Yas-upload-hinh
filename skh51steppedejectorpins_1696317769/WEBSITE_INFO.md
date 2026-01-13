@@ -19,7 +19,7 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 ```html
 <h2>SKH51 STEPPED EJECTOR PINS - CHỐT ĐẨY 2 BẬC CHẤT LƯỢNG CAO</h2>
 
-<p>Chốt đẩy 2 bậc SKH51 (SKH51雙節射銷) là giải pháp hoàn hảo cho các ứng dụng khuôn mẫu đòi hỏi độ chính xác và độ bền cao. Với vật liệu thép gió tốc độ cao SKH51 và độ cứng 58-60 HRC, sản phẩm đảm bảo tuổi thọ vượt trội trong môi trường làm việc khắc nghiệt.</p>
+<p>Chốt đẩy 2 bậc SKH51 là giải pháp hoàn hảo cho các ứng dụng khuôn mẫu đòi hỏi độ chính xác và độ bền cao. Với vật liệu thép gió tốc độ cao SKH51 và độ cứng 58-60 HRC, sản phẩm đảm bảo tuổi thọ vượt trội trong môi trường làm việc khắc nghiệt.</p>
 
 <h3>Đặc Điểm Nổi Bật</h3>
 <ul>
