@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 THÔNG TIN CƠ BẢN
+## THÔNG TIN CƠ BẢN
 
 ### Tên sản phẩm
 ```
@@ -12,7 +12,7 @@ SKH51 STEPPED EJECTOR PINS (Chốt Đẩy 2 Bậc SKH51)
 
 ### Miêu tả ngắn
 ```
-Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ESHT (4mm head). Vật liệu thép gió SKH51 chất lượng cao từ HUAN SIN. Đường kính D1.5-12mm, chiều dài L40-350mm, độ chính xác cao. Hỗ trợ gia công mặt phẳng và lỗ chốt theo yêu cầu.
+Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ESHT (4mm head). Vật liệu thép gió SKH51 chất lượng cao. Đường kính D1.5-12mm, chiều dài L40-350mm, độ chính xác cao. Hỗ trợ gia công mặt phẳng và lỗ chốt theo yêu cầu.
 ```
 
 ### Nội dung chi tiết
@@ -21,7 +21,7 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 
 <p>Chốt đẩy 2 bậc SKH51 (SKH51雙節射銷) là giải pháp hoàn hảo cho các ứng dụng khuôn mẫu đòi hỏi độ chính xác và độ bền cao. Với vật liệu thép gió tốc độ cao SKH51 và độ cứng 58-60 HRC, sản phẩm đảm bảo tuổi thọ vượt trội trong môi trường làm việc khắc nghiệt.</p>
 
-<h3>✨ Đặc Điểm Nổi Bật</h3>
+<h3>Đặc Điểm Nổi Bật</h3>
 <ul>
 <li><strong>Vật liệu SKH51:</strong> Thép gió tốc độ cao, chịu nhiệt và chịu mài mòn tốt</li>
 <li><strong>Độ cứng cao:</strong> 58-60 HRC đảm bảo độ bền vượt trội</li>
@@ -30,7 +30,7 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 <li><strong>Tùy chỉnh linh hoạt:</strong> Hỗ trợ gia công mặt phẳng (1-4 mặt), lỗ chốt, góc cắt tùy chỉnh</li>
 </ul>
 
-<h3>📐 Thông Số Kỹ Thuật</h3>
+<h3>Thông Số Kỹ Thuật</h3>
 
 <h4>Phạm Vi Kích Thước</h4>
 <table border="1" cellpadding="8" cellspacing="0">
@@ -76,7 +76,7 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 <li>Điều kiện: 20 ≤ (L-N) ≤ 200</li>
 </ul>
 
-<h3>🔧 Tùy Chọn Gia Công</h3>
+<h3>Tùy Chọn Gia Công</h3>
 
 <h4>Gia Công Mặt Phẳng (Key Flat Cutting)</h4>
 <ul>
@@ -97,11 +97,11 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 <li>T=6mm: d=3mm, NC=5mm</li>
 </ul>
 
-<h3>📝 Ví Dụ Đặt Hàng</h3>
+<h3>Ví Dụ Đặt Hàng</h3>
 <p><strong>Mẫu 1:</strong> ESHT D6 P3 N55 LC180.50</p>
 <p><strong>Mẫu 2:</strong> ESH D8 P6.3 N70 L100</p>
 
-<h3>🎯 Ứng Dụng</h3>
+<h3>Ứng Dụng</h3>
 <ul>
 <li>Khuôn nhựa (Plastic mold)</li>
 <li>Khuôn đúc áp lực (Die casting mold)</li>
@@ -110,16 +110,16 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 <li>Các ứng dụng yêu cầu độ chính xác cao</li>
 </ul>
 
-<h3>✅ Ưu Điểm Vượt Trội</h3>
+<h3>Ưu Điểm Vượt Trội</h3>
 <ul>
-<li>🔹 Độ bền cao nhờ vật liệu SKH51 và nhiệt luyện chuẩn xác</li>
-<li>🔹 Độ chính xác gia công đạt tiêu chuẩn JIS</li>
-<li>🔹 Đa dạng kích thước và tùy chọn gia công</li>
-<li>🔹 Bán kính bước (Step Radius) được kiểm soát chặt chẽ</li>
-<li>🔹 Sản xuất bởi HUAN SIN - thương hiệu uy tín</li>
+<li>Độ bền cao nhờ vật liệu SKH51 và nhiệt luyện chuẩn xác</li>
+<li>Độ chính xác gia công đạt tiêu chuẩn JIS</li>
+<li>Đa dạng kích thước và tùy chọn gia công</li>
+<li>Bán kính bước (Step Radius) được kiểm soát chặt chẽ</li>
+<li>Chất lượng cao, đạt tiêu chuẩn quốc tế</li>
 </ul>
 
-<h3>📦 Thông Tin Đặt Hàng</h3>
+<h3>Thông Tin Đặt Hàng</h3>
 <p>Để đặt hàng, vui lòng cung cấp đầy đủ thông tin:</p>
 <ul>
 <li>TYPE: ESH hoặc ESHT</li>
@@ -134,12 +134,12 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 
 <hr>
 
-<p><em>Sản phẩm chính hãng từ HUAN SIN COMPANY LIMITED - Đối tác tin cậy của ngành khuôn mẫu Việt Nam.</em></p>
+<p><em>Sản phẩm chất lượng cao, đạt tiêu chuẩn JIS, phù hợp cho mọi ứng dụng khuôn mẫu.</em></p>
 ```
 
 ---
 
-## 🎨 HÌNH ẢNH
+## HÌNH ẢNH
 
 ### Danh sách ảnh cần upload:
 - [ ] Ảnh sản phẩm chính (main product image)
@@ -151,7 +151,7 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 
 ---
 
-## 🏷️ CHI TIẾT SẢN PHẨM
+## CHI TIẾT SẢN PHẨM
 
 ### Danh mục sản phẩm
 ```
@@ -164,14 +164,13 @@ Linh Kiện Khuôn Mẫu > Chốt Đẩy > Chốt Đẩy 2 Bậc
 - Độ cứng: 58-60 HRC
 - Loại: Chốt đẩy 2 bậc (Stepped Ejector Pin)
 - Tiêu chuẩn: JIS
-- Xuất xứ: HUAN SIN COMPANY LIMITED
 - Bề mặt: Mài chính xác, đánh bóng
 - Nhiệt luyện: Tôi, ram chuẩn xác
 ```
 
 ### Thương hiệu
 ```
-HUAN SIN
+YAS-TEK
 ```
 
 ### Mã sản phẩm
@@ -181,7 +180,7 @@ SKH51-STEP-ESH-ESHT
 
 ---
 
-## 🔍 SEO
+## SEO
 
 ### Đường dẫn (URL Slug)
 ```
@@ -196,18 +195,18 @@ SKH51 Stepped Ejector Pins - Chốt Đẩy 2 Bậc Độ Cứng 58-60 HRC
 
 ### Mô tả trang (Page Description - Max 360 ký tự)
 ```
-Chốt đẩy 2 bậc SKH51 (ESH/ESHT) độ cứng 58-60 HRC từ HUAN SIN. Vật liệu thép gió SKH51 chất lượng cao, D1.5-12mm, L40-350mm. Độ chính xác cao, dung sai ketat. Hỗ trợ gia công mặt phẳng 1-4 mặt, lỗ chốt, góc cắt tùy chỉnh. Phù hợp khuôn nhựa, đúc áp lực, dập. Đạt tiêu chuẩn JIS. Giao hàng nhanh, giá tốt. Liên hệ tư vấn!
+Chốt đẩy 2 bậc SKH51 (ESH/ESHT) độ cứng 58-60 HRC chất lượng cao. Vật liệu thép gió SKH51, D1.5-12mm, L40-350mm. Độ chính xác cao, dung sai ketat. Hỗ trợ gia công mặt phẳng 1-4 mặt, lỗ chốt, góc cắt tùy chỉnh. Phù hợp khuôn nhựa, đúc áp lực, dập. Đạt tiêu chuẩn JIS. Giao hàng nhanh, giá tốt. Liên hệ tư vấn!
 ```
-*Độ dài: 346 ký tự ✓*
+*Độ dài: 333 ký tự ✓*
 
 ### Từ khóa SEO
 ```
-chốt đẩy 2 bậc, SKH51 stepped ejector pins, chốt đẩy SKH51, ejector pins 2 bậc, chốt khuôn 2 bậc, SKH51 ejector pin, stepped ejector pin, chốt đẩy khuôn nhựa, chốt đẩy chính xác cao, HUAN SIN ejector pins, ESH ejector pins, ESHT ejector pins, chốt đẩy thép gió, chốt đẩy độ cứng cao, linh kiện khuôn mẫu, phụ tùng khuôn mẫu, chốt đẩy JIS, mold components, ejector pins Việt Nam, chốt đẩy chất lượng cao
+chốt đẩy 2 bậc, SKH51 stepped ejector pins, chốt đẩy SKH51, ejector pins 2 bậc, chốt khuôn 2 bậc, SKH51 ejector pin, stepped ejector pin, chốt đẩy khuôn nhựa, chốt đẩy chính xác cao, ESH ejector pins, ESHT ejector pins, chốt đẩy thép gió, chốt đẩy độ cứng cao, linh kiện khuôn mẫu, phụ tùng khuôn mẫu, chốt đẩy JIS, mold components, ejector pins Việt Nam, chốt đẩy chất lượng cao
 ```
 
 ---
 
-## 🏪 KÊNH BÁN HÀNG
+## KÊNH BÁN HÀNG
 
 ### Nền tảng đề xuất
 - [x] Website chính (yas-tek.com)
@@ -218,7 +217,7 @@ chốt đẩy 2 bậc, SKH51 stepped ejector pins, chốt đẩy SKH51, ejector 
 
 ---
 
-## ⚙️ CẤU HÌNH CHUNG
+## CẤU HÌNH CHUNG
 
 ### Thứ tự hiển thị
 ```
@@ -232,12 +231,12 @@ chốt đẩy 2 bậc, SKH51 stepped ejector pins, chốt đẩy SKH51, ejector 
 
 ### Nhãn (Tags)
 ```
-SKH51, Chốt Đẩy, Stepped Pin, Mold Components, HUAN SIN, High Precision, ESH, ESHT, Japanese Standard, 58-60 HRC
+SKH51, Chốt Đẩy, Stepped Pin, Mold Components, High Precision, ESH, ESHT, Japanese Standard, 58-60 HRC
 ```
 
 ---
 
-## 📊 THÔNG TIN BỔ SUNG
+## THÔNG TIN BỔ SUNG
 
 ### Chính sách bán hàng
 ```
@@ -264,10 +263,10 @@ A: SKH51 có độ cứng cao (58-60 HRC), chịu nhiệt và chịu mài mòn t
 
 ---
 
-## 📞 THÔNG TIN LIÊN HỆ
+## THÔNG TIN LIÊN HỆ
 
 ```
-Website: www.yas-tek.com | www.khoathinh.com
+Website: www.yas-tek.com
 Hotline: [Số điện thoại]
 Email: [Email liên hệ]
 Địa chỉ: [Địa chỉ công ty]
