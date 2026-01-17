@@ -1,0 +1,225 @@
+SKH51雙節射銷ESH - ESHT
+HUAN SIN COMPANY LIMITED SKH51 STEPPED EJECTOR PINS
+SKH51 STEPPED EJECTOR PINS
+L or LC P L→1mm increments
+LC→0.01mm increments 0.01mm increments
+N
+1mm increments D
+1 0.40 ~ 0.90
+0.60 ~ 0.90
+0.60 ~ 1.40
+0.80 ~ 1.90
+0.80 ~ 2.40
+1.00 ~ 2.90
+1.50 ~ 3.40
+1.50 ~ 3.90
+2.50 ~ 4.40
+3.00 ~ 4.90
+3.50 ~ 5.40
+4.00 ~ 5.90
+4.50 ~ 6.40
+4.90 ~ 6.90
+5.90 ~ 7.90
+7.90 ~ 9.90
+8.90 ~ 11.90
+4mm head
+H T
+JIS head
+H T
+TYPE
+JIS
+head
+4mm
+head
+40 ~ 100
+40 ~ 150
+40 ~ 200
+40 ~ 250
+40 ~ 300
+40 ~ 350
+N ≥ 15
+and
+15 ≤ (L-N) ≤ 150
+N ≥ 15
+and
+20 ≤ (L-N) ≤ 200
+ESH
+ESHT
+4
+4
+8
+6
+3
+1.5
+1.54
+1.55
+1.56
+1.57
+7
+10
+13
+15
+17
+11
+15
+17
+8
+11
+9
+8
+9
+10
+2
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+6
+6.5
+7
+8
+10
+12
+Order Example
+TYPE
+ESHT
+D P N L(LC)
+D6 P3 N55 LC180.50
+ESH D8 P6.3 N70 L100
+Ejector Pins
+www.khoathinh.com
+ 
+N
+D
+P
+H－－－－
+0.30
+0.02
+0
+5
+0
+Step Radius (R) (D ≤ 2→R ≤ 0.3)
+R ≤ 0.5
+T
+(L - N)
+L LC or
+0.01
+0.02
+ESH - ESHT
+LC L
++5
++0.1
++0.02
+0
+LC > 200→
++0.05
+0
+LC > 500→
++0.5
+0
+58 ~ 60 HRC 
+SKH51
+Range of guaranteed shaft diameter precision (D) like EPDJ and EPDT  ejector pins
+6 - 8mm 
+4mm  0- 0.02
+  0- 0.05
+T Tolerance
+ESH - ESHT
+SKH51雙節射銷
+SKH51 STEPPED EJECTOR PINS
+Alterations
+KC 0－0.1
+Code
+KC
+Single flat cutting
+P/2 ≤ KC < H/2
+HUAN SIN COMPANY LIMITED
+Spec.
+WKC 0
+WKC－0.1
+Two flats cutting
+P/2 ≤ WKC < H/2
+About Designation Unit 
+for Key Flat Cutting
+Varied width parallel flats cutting
+KAC KBC 0－0.1
+RKC
+RKC 0
+DKC－0.1
+DKC 0
+DKC
+SKC－0.1
+SKC 0－0.1
+AG°
+0°
+±0.5
+KGC
+120°
+120°
+120°
+KTC 0－0.1
+H－0.3
+HC 0
+TC
+T
+H
+KAC
+KBC
+RKC
+DKC
+SKC
+KGC
+KTC
+HC
+P/2 ≤ KAC < H/2
+KBC = 0.1mm increments only
+KAC < KBC < H/2
+Two flats (right angled) cutting 
+P/2 ≤ RKC < H/2
+Three flats cutting
+P/2 ≤ DKC < H/2
+Four flats cutting
+P/2 ≤ SKC < H/2
+Two flats (angled) cutting
+P/2 ≤ KGC < H/2
+AG =1° increments
+0 ≤ AG < 360
+Three flats cutting
+at 120
+(1)
+To align the key flat 
+with the shaft diameter 
+Unit of designation
+0.05mm increments 
+possible
+(2)
+To designate 
+arbitrary key flat 
+dimensions
+Unit of designation
+0.1mm
+P/2 ≤ KTC < H/2
+HC = 0.1mm increments
+P+1 ≤ HC < H, P ≥1.5 
+TC = 0.1mm increments
+TC
+T/2 ≤ TC < T, P ≥1.5 
+KGC
+0－ 0.1
+Dimension L becomes shorter by (T-TC)
++0.1
+d
+0
+T
+NC
+Dowel hole boring
+T d
+4 2 3
+Available when H ≥ 4
+6 3 5
+8
+Ejector Pins
+www.khoathinh.com
