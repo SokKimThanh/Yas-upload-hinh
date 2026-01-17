@@ -1,0 +1,575 @@
+Danh sách mã sản phẩm
+EPDJ, EPDT – Ty đẩy SKD61
+
+EPHJ, EPHT – Ty đẩy SKH51
+
+ESN, ESNT, ESD, ESDT – Ty đẩy đôi SKD61
+
+ESH, ESHT – Ty đẩy đôi SKH51
+
+ERN, ERNT, ERD, ERDT – Ty dẹp SKD61
+
+ERH, ERHT – Ty dẹp SKH51
+
+EVD, EVDT – Ty ống SKD61
+
+ESVD, ESVDT – Ty ống đôi SKD61
+
+APV – Suppat hơi (Air Poppet Valves)
+
+GPHE – Chốt dẫn hướng SUJ2 (Plain with head)
+
+GPG – Chốt dẫn hướng SUJ2 (Có rãnh dầu)
+
+GBF, GBS – Bạc dẫn SUJ2 (Không rãnh dầu)
+
+GBFE, GBSE – Bạc dẫn SUJ2 (Có rãnh dầu)
+
+GBOF, GBOS – Bạc dầu SUJ2 (Copper alloy, oil-free)
+
+EGBH, EGBZS, EGBL – Bạc dẫn thẳng SUJ2
+
+EMBS – Bạc bi
+
+EGP – Chốt dẫn thẳng SUJ2
+
+SP – Chốt đỡ SUJ2
+
+RP – Ty hồi SUJ2
+
+AP, APS – Ty đẩy góc SUJ2
+
+TLK – Tension Links
+
+RM – Dấu tái chế
+
+DT, DTBZ, DTEZ, C-DT – Dấu ngày tháng thay thế/không thay thế
+
+TPN, TPS, TPNC, TPNF, TPVX – Kẹp định vị tròn (SKD11, SUJ2)
+
+TTSB, TSSB – Kẹp định vị cạnh thẳng
+
+GPL, TBS, LBCSK, LBCMK, LBMS, LBMM, LBMD, LBPS, LBPM – Khối khóa định vị
+
+MPLK, MPLKS – Roller Lock Sets
+
+DTJH, PLS, PLM, PLL, PLSW, PLSZ, PLMZ – Khóa khuôn
+
+PU – Nhựa PU
+
+BP, BPS – Ốc định vị (Ball Plungers)
+
+CB – Buloong (Hex socket head cap screws)
+
+M-CVPL, M-CVR – Bộ đếm khuôn
+
+EPB – Ốc kéo cho tấm đẩy
+
+MSB – Shoulder Bolts
+
+STBG – Stop Bolts
+
+PBTN, PBTX – Ty ren kéo (Puller Bolts)
+
+PLBSP, PLBS – Bạc bulong khóa khuôn
+
+MS, MSTP, MSW – Ty định vị, ốc nhét nước
+
+MWSC, MWFB, MWZC – Lông đền (Free Washers)
+
+LR – Vòng định vị
+
+SJA, SJG, SJB, SJT, SBC – Phễu rót nhựa (Sprue Bushings)
+
+RLP – Ty giật đuôi keo
+
+CHI – Vòng cẩu khuôn
+
+V-15-1A5-T, V-156-1A5-T, D2RV, Z-15G-B – Công tắc hành trình (Microswitch)
+
+PGHB, PGHT – Phễu rót nhựa SKH51 (Pin-Point Gate Bushings)
+
+WCPPT, WCPM, JTW, HX-JTW, JTWF, NPW, NPL, JWP – Đầu nối ống nước (Cooling system)
+
+GPC – Khớp nối khí nén (Quick fitting)
+
+MSWT – Ốc nhét nước lục giác
+
+ORP, ORG, ORS – Ron nước (O-Ring)
+
+WRCAN – Thanh xoắn nước (Spiral Baffle Boards)
+
+TGS, TGSP – Miếng đệm khuôn (Precision Thickness Gauge Strip)
+
+SF, SFR, SL, SLR, SM, SH, SB, SY, SR, LR, TF, TFR, TL, TLR, TM, TH, TB, TY, TR – Lò xo (Springs, nhiều loại tải trọng)
+
+GAS – Gas Vent
+
+HT – Kềm nhiệt (Hot Nippers)
+ 
+
+Nhóm Ty đẩy
+EPDJ, EPDT – Ty đẩy SKD61
+
+EPHJ, EPHT – Ty đẩy SKH51
+
+ESN, ESNT, ESD, ESDT – Ty đẩy đôi SKD61
+
+ESH, ESHT – Ty đẩy đôi SKH51
+
+Nhóm Bạc dẫn
+GBF, GBS – Bạc dẫn SUJ2 (không rãnh dầu)
+
+GBFE, GBSE – Bạc dẫn SUJ2 (có rãnh dầu)
+
+GBOF, GBOS – Bạc dầu SUJ2
+
+EGBH, EGBZS, EGBL – Bạc dẫn thẳng SUJ2
+
+Nhóm Lò xo
+SF, SFR, SL, SLR, SM, SH, SB, SY, SR, LR, TF, TFR, TL, TLR, TM, TH, TB, TY, TR – Các loại lò xo
+
+Danh sách tên sản phẩm trên trang
+Ty đẩy SKD61
+
+Ty đẩy SKH51
+
+Ty đẩy đôi SKD61
+
+Ty đẩy đôi SKH51
+
+Ty dẹp SKD61
+
+Ty dẹp SKH51
+
+Ty ống SKD61
+
+Ty ống đôi SKD61
+
+Suppat hơi (Air Poppet Valves)
+
+Chốt dẫn hướng SUJ2 (Plain, có rãnh dầu)
+
+Bạc dẫn SUJ2 (vai, rãnh giữa, có/không rãnh dầu)
+
+Bạc dầu SUJ2 (copper alloy, oil-free)
+
+Bạc dẫn thẳng SUJ2 (có rãnh dầu, bi, tuyến tính)
+
+Bạc bi
+
+Chốt dẫn thẳng SUJ2
+
+Chốt đỡ SUJ2
+
+Ty hồi SUJ2
+
+Ty đẩy góc SUJ2
+
+Tension Links
+
+Dấu tái chế
+
+Dấu ngày tháng (thay thế/không thay thế)
+
+Kẹp định vị tròn (SKD11, SUJ2)
+
+Kẹp định vị cạnh thẳng
+
+Khối khóa định vị (nhiều loại)
+
+Roller Lock Sets
+
+Khóa khuôn (nhiều loại)
+
+Nhựa PU
+
+Ốc định vị (Ball Plungers)
+
+Buloong (Hex socket head cap screws)
+
+Bộ đếm khuôn
+
+Ốc kéo cho tấm đẩy
+
+Shoulder Bolts
+
+Stop Bolts
+
+Ty ren kéo (Puller Bolts)
+
+Bạc bulong khóa khuôn
+
+Ty định vị
+
+Ốc nhét nước (nhiều loại)
+
+Lông đền (Free Washers)
+
+Vòng định vị
+
+Phễu rót nhựa (nhiều loại)
+
+Ty giật đuôi keo
+
+Vòng cẩu khuôn
+
+Công tắc hành trình (Microswitch)
+
+Phễu rót nhựa SKH51 (Pin-Point Gate Bushings)
+
+Đầu nối ống nước (Cooling system, nhiều loại)
+
+Khớp nối khí nén (Quick fitting)
+
+Ron nước (O-Ring)
+
+Thanh xoắn nước (Spiral Baffle Boards)
+
+Miếng đệm khuôn (Precision Thickness Gauge Strip)
+
+Lò xo (nhiều loại tải trọng, màu sắc)
+
+Gas Vent
+
+Kềm nhiệt (Hot Nippers)
+
+🔹 Nhóm Ty đẩy
+EPDJ, EPDT – Ty đẩy SKD61
+
+EPHJ, EPHT – Ty đẩy SKH51
+
+ESN, ESNT, ESD, ESDT – Ty đẩy đôi SKD61
+
+ESH, ESHT – Ty đẩy đôi SKH51
+
+ERN, ERNT, ERD, ERDT – Ty dẹp SKD61
+
+ERH, ERHT – Ty dẹp SKH51
+
+EVD, EVDT – Ty ống SKD61
+
+ESVD, ESVDT – Ty ống đôi SKD61
+
+AP, APS – Ty đẩy góc SUJ2
+
+RP – Ty hồi SUJ2
+
+RLP – Ty giật đuôi keo
+
+🔹 Nhóm Chốt & Bạc dẫn
+GPHE – Chốt dẫn hướng SUJ2 (Plain with head)
+
+GPG – Chốt dẫn hướng SUJ2 (Có rãnh dầu)
+
+GBF, GBS – Bạc dẫn SUJ2 (Không rãnh dầu)
+
+GBFE, GBSE – Bạc dẫn SUJ2 (Có rãnh dầu)
+
+GBOF, GBOS – Bạc dầu SUJ2 (Copper alloy, oil-free)
+
+EGBH, EGBZS, EGBL – Bạc dẫn thẳng SUJ2
+
+EMBS – Bạc bi
+
+EGP – Chốt dẫn thẳng SUJ2
+
+SP – Chốt đỡ SUJ2
+
+🔹 Nhóm Khóa khuôn & Kẹp định vị
+TPN, TPS, TPNC, TPNF, TPVX – Kẹp định vị tròn (SKD11, SUJ2)
+
+TTSB, TSSB – Kẹp định vị cạnh thẳng
+
+GPL, TBS, LBCSK, LBCMK, LBMS, LBMM, LBMD, LBPS, LBPM – Khối khóa định vị
+
+MPLK, MPLKS – Roller Lock Sets
+
+DTJH, PLS, PLM, PLL, PLSW, PLSZ, PLMZ – Khóa khuôn
+
+🔹 Nhóm Bu lông, ốc, phụ kiện
+BP, BPS – Ốc định vị (Ball Plungers)
+
+CB – Buloong (Hex socket head cap screws)
+
+EPB – Ốc kéo cho tấm đẩy
+
+MSB – Shoulder Bolts
+
+STBG – Stop Bolts
+
+PBTN, PBTX – Ty ren kéo (Puller Bolts)
+
+PLBSP, PLBS – Bạc bulong khóa khuôn
+
+MS, MSTP, MSW – Ty định vị, ốc nhét nước
+
+MWSC, MWFB, MWZC – Lông đền (Free Washers)
+
+🔹 Nhóm Phễu rót nhựa
+SJA, SJG, SJB, SJT, SBC – Phễu rót nhựa (Sprue Bushings)
+
+PGHB, PGHT – Phễu rót nhựa SKH51 (Pin-Point Gate Bushings)
+
+🔹 Nhóm Hệ thống làm mát & khí
+WCPPT, WCPM, JTW, HX-JTW, JTWF, NPW, NPL, JWP – Đầu nối ống nước (Cooling system)
+
+GPC – Khớp nối khí nén (Quick fitting)
+
+MSWT – Ốc nhét nước lục giác
+
+ORP, ORG, ORS – Ron nước (O-Ring)
+
+WRCAN – Thanh xoắn nước (Spiral Baffle Boards)
+
+🔹 Nhóm Lò xo
+SF, SFR, SL, SLR, SM, SH, SB, SY, SR, LR, TF, TFR, TL, TLR, TM, TH, TB, TY, TR – Lò xo (nhiều loại tải trọng, màu sắc)
+
+🔹 Nhóm Dấu & phụ kiện khuôn
+RM – Dấu tái chế
+
+DT, DTBZ, DTEZ, C-DT – Dấu ngày tháng thay thế/không thay thế
+
+TGS, TGSP – Miếng đệm khuôn (Precision Thickness Gauge Strip)
+
+🔹 Nhóm Khác
+APV – Suppat hơi (Air Poppet Valves)
+
+TLK – Tension Links
+
+PU – Nhựa PU
+
+M-CVPL, M-CVR – Bộ đếm khuôn
+
+LR – Vòng định vị
+
+CHI – Vòng cẩu khuôn
+
+V-15-1A5-T, V-156-1A5-T, D2RV, Z-15G-B – Công tắc hành trình (Microswitch)
+
+GAS – Gas Vent
+
+HT – Kềm nhiệt (Hot Nippers)
+ 📊 Tổng số sản phẩm riêng trong trang Linh Kiện Khuôn Ép Nhựa
+Nhóm Ty đẩy
+SKD61 Straight Ejector Pins – Ty đẩy SKD61
+
+SKH51 Straight Ejector Pins – Ty đẩy SKH51
+
+SKD61 Stepped Ejector Pins – Ty đẩy đôi SKD61
+
+SKH51 Stepped Ejector Pins – Ty đẩy đôi SKH51
+
+SKD61 Rectangular Ejector Pin – Ty dẹp SKD61
+
+SKH51 Rectangular Ejector Pins – Ty dẹp SKH51
+
+SKD61 Ejector Sleeves – Ty ống SKD61
+
+SKD61 Stepped Ejector Sleeves – Ty ống đôi SKD61
+👉 8 sản phẩm
+
+Nhóm Khí & Suppat
+Air Poppet Valves – Suppat hơi
+👉 1 sản phẩm
+
+Nhóm Chốt dẫn hướng & Bạc dẫn
+Precision Leader Pins – Plain With Head
+
+Precision Leader Pins – With Oil Groove
+
+Leader Bushing – Head Type No Oil Groove
+
+Leader Bushing – Straight Type No Oil Groove
+
+Leader Bushings – Head Oil Groove Type
+
+Leader Bushings – Straight Oil Groove Type
+
+Oil-Free Leader Bushings – Head Type
+
+Oil-Free Leader Bushings – Straight Type
+
+Ejector Leader Bushings – Oil Groove Type
+
+Ejector Leader Bushings – Oil-Free Type
+
+Ejector Leader Bushings – Ball Type
+
+Ball Retainers – Bạc bi
+
+Ejector Leader Bushings – Linear Guide Type
+
+Ejector Guide Pins – Chốt dẫn thẳng SUJ2
+
+Support Pins – Chốt đỡ SUJ2
+👉 15 sản phẩm
+
+Nhóm Ty hồi & Ty góc
+Return Pins – Ty hồi SUJ2
+
+Angular Pins – Ty đẩy góc SUJ2
+👉 2 sản phẩm
+
+Nhóm Khóa & Định vị
+Tension Links
+
+Recycle Marked Pins – Dấu tái chế
+
+Interchangeable Date Marked Pins – Dấu thay thế
+
+Integral Date Marked Pins – Dấu không thay thế
+
+Integral Date Marked Pins/Double Ring – Dấu ngày tháng
+
+Tapered Pin Set (SKD11)
+
+Tapered Pin Set (SUJ2)
+
+Tapered Pin Set/Bushing PL Installation
+
+Positioning Straight Pin Sets
+
+Tapered Pin Set/Pin-Bushing Installation
+
+Locating Block Sets
+
+Straight Side Locks Sets
+
+Straight Side Locks Set (YK30)
+
+Taper Block Sets
+
+Positioning Locking Blocks – Standard
+
+Locking Blocks – Inlay Type
+
+Locking Blocks – Inlay PL Installation
+
+Roller Lock Sets
+
+Latch Lock
+
+Parting Lock Sets
+
+Parting Lock Sets – Compact Type
+
+Parting Lock Sets – Mold Opening/Closing Control
+👉 22 sản phẩm
+
+Nhóm Bu lông, ốc, phụ kiện
+PU Stick – Nhựa PU
+
+Ball Plungers – Ốc định vị
+
+Hex Socket Head Cap Screws – Buloong
+
+Shot Counters – Bộ đếm khuôn
+
+Bolts For Ejector Plate Set – Ốc kéo
+
+Shoulder Bolts – Ốc kéo
+
+Stop Bolts – Ốc giựt
+
+Puller Bolts – Female Screw Type
+
+Puller Bolts – Male Screw Type
+
+Parting Lock Bushings – PL Installation
+
+Parting Locks – Bu lông khóa khuôn
+
+Dowel Pins – Ty định vị
+
+Parting Lock Bushings – PLBS
+
+Screw Plugs – Ốc nhét nước
+
+Free Washers – Lông đền
+
+Locating Rings – Vòng định vị
+👉 16 sản phẩm
+
+Nhóm Phễu rót nhựa
+Sprue Bushings – A Type
+
+Sprue Bushings – B Type
+
+Sprue Bushings – C Type
+
+Runner Lock Pins – Ty giật đuôi keo
+
+Lifting Eye Bolts – Vòng cẩu khuôn
+
+Microswitch – Công tắc hành trình
+
+Pin-Point Gate Bushings
+
+Pin-Point Gate Bushings With Head
+👉 8 sản phẩm
+
+Nhóm Hệ thống làm mát & khí
+Cooling System – Japanese Standard
+
+Joint Nipples
+
+Hose Nipples (NPW)
+
+Hose Nipples (NPL)
+
+Cooling Circuit Plug (JWP)
+
+Cooling Circuit Plug – Hexa
+
+Quick Fitting
+
+Tapered Screw Plugs
+
+O-RING
+
+Spiral Baffle Boards
+👉 10 sản phẩm
+
+Nhóm Miếng đệm & Lò xo
+Precision Thickness Gauge Strip
+
+Lightest Load Springs – Samsol
+
+Light Load Springs – Samsol
+
+Medium Load Springs – Samsol
+
+Heavy Load Springs – Samsol
+
+Super Load Springs – Samsol
+
+Middle Deflection Springs – Samsol
+
+High Deflection Springs – Samsol
+
+Wire Spring – Samsol
+
+Lightest Load Springs – Taiwan
+
+Light Load Springs – Taiwan
+
+Medium Load Springs – Taiwan
+
+Heavy Load Springs – Taiwan
+
+Super Load Springs – Taiwan
+
+Ultra High Deflection Springs – Taiwan
+
+High Deflection Springs – Taiwan
+👉 16 sản phẩm
+
+Nhóm Khác
+Gas Vent
+
+Hot Nippers – Kềm nhiệt
+👉 2 sản phẩm
+
+📌 Tổng cộng
+100 sản phẩm riêng biệt trong trang Linh Kiện Khuôn Ép Nhựa Khoa Thịnh
