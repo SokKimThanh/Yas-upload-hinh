@@ -112,18 +112,6 @@ SKD61-STRAIGHT-EPDJ-EPDT
 
 ---
 
-## HÌNH ẢNH
-
-### Danh sách ảnh upload
-1) Ảnh chính nền trắng
-2) Ảnh bản vẽ kích thước (P/H/T/L)
-3) Ảnh head JIS vs head 4mm
-4) Ảnh minh họa các mã KC/WKC/RKC/DKC
-5) Ảnh ứng dụng trong khuôn
-6) Ảnh bảng dung sai
-
----
-
 ## BIẾN THỂ
 
 ### Thuộc tính sản phẩm
