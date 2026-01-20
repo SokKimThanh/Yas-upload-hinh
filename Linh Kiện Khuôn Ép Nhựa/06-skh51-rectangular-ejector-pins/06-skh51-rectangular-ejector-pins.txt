@@ -1,0 +1,249 @@
+
+1
+
+Automatic Zoom
+ERH - ERHT
+ERH - ERHT
+HUAN SIN COMPANY LIMITEDSKH51 RECTANGULAR EJECTOR PINS
+SKH51扁銷
+4mm head
+H T
+JIS head
+H T
+TYPE
+JIShead4mmhead
+0.01mm
+increments
+0.01mm
+increments
+0.50 ~ 1.30 40.00 ~ 250.00
+40.00 ~ 300.00
+40.00 ~ 350.00
+50.00 ~ 350.00
+0.80 ~ 1.80
+0.80 ~ 2.30
+0.80 ~ 2.80 0.30~
+1.00 ~ 3.30
+1.00 ~ 3.80
+1.20 ~ 4.30
+1.50 ~ 4.80
+1.80 ~ 5.30
+2.00 ~ 5.80
+2.00 ~ 6.30
+2.30 ~ 6.80
+2.30 ~ 7.80
+2.30 ~ 8.30
+3.00 ~ 9.80
+3.00 ~ 10.30
+3.50 ~ 11.80
+0.40~
+L or LC
+L→1mm increments
+LC→0.01mm increments
+Kmax Nmin
+10 ≤ (L - N) ≤ 250
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+6
+6.5
+7
+8
+8.5
+10
+10.5
+12
+1.4 23
+27
+29
+31
+40
+1.9
+2.4 26
+33
+2.9
+3.4
+3.9
+4.4
+4.9
+5.4
+5.9
+6.4
+6.9
+7.9
+8.4
+9.9
+10.4
+11.90.80~
+ERH
+ERHT
+1mm
+increments
+4
+4
+3
+4
+5
+6
+8
+8
+9
+9
+1110
+17
+7
+7
+13
+14
+15
+17
+11
+14
+15
+10
+8
+6
+D P W N
+0.50~
+H
+N
+D K
+W
+P
+－0.3
+0
+－0.02
+0
+0-5
++50 0
+－0.01
+－0.01
+0Step R
+K = P 2 2W
+(D ≤ 2→R ≤ 0.3)
+R ≤ 0.5
+L LCor
+(L - N)
+P ≥ W
++
+1.0
+G
+T
+LC L
++5
++0.1
+LC > 200→
++0.020
++0.05
+0
+LC ≤ 200→
+Order Example
+TYPE
+ERH
+PD W L(LC) N (VAK-AKC...etc)
+P2.8 W1 L165 N50 AKC 90
+ERHT P2.5
+D4
+D5 W1 L125 N40
+Ejector Pins
+www.khoathinh.com
+58 ~ 60HRC 
+SKH51
+Range of guaranteed shaft diameter precision (D) like EPDJ and EPDT  ejector pins
+6 - 8mm 
+4mm   0- 0.02
+  0- 0.05
+T Tolerance
+HUAN SIN COMPANY LIMITEDSKH51 RECTANGULAR EJECTOR PINS
+ERH - ERHT SKH51扁銷
+Alterations Code Spec.
+AKC
+AWC
+ARC
+ADC
+KGA
+KGD
+90°
+0°
+180°
+D/2
+270° When combined with KSA/WSA, 
+90° increments only.
+AKC = 1° increments
+0 ≤ AKC < 360
+θ0°
+90°270°
+180
+D/2
+When combined with KSA/WSA, 
+90° increments only.
+AWC = 1° increments
+0 ≤ AWC < 360
+°
+When combined with KSA/WSA, 
+90° increments only.
+ARC = 1° increments
+0 ≤ ARC < 360
+θ
+270° 90°
+180°
+When combined with KSA/WSA, 
+90° increments only.
+ADC = 1° increments
+0 ≤ ADC < 360
+θ
+90°
+0°
+180°
+270°
+D/2
+KGA = 1° increments
+0 < KGA < 360
+90°
+0° 180°
+270°
+D/2
+KGD = 1° increments
+0 < KGD < 360
+0
+H HC
+HCC = 0.1mm increments
+(HCC)  D+1 ≤ HCC < H - 0.3, 
+D ≥  0.5 
+－
+WSA
+W
+0.1
+0
+WSA WSA = 0.1mm increments
+W/2 + 0.1 ≤WSA ≤ 0/2 - 0.1 
+T
+TC TC
+NC
+(Dimensions L and N remain unchanged)
+θ
+90°
+0°
+180
+270°
+°
+0° Dowel hole boring
+Avaible when H ≥ 4
+NC = 90° increments
+TC = 0.1mm increments
+T/2 ≤ TC < T
+T-TC ≤ Lmax - L, D ≥ 1.5
+HCCH
+HCC0
+－0.02
+HCC = 0.1mm increments
+(HCC)  D+1 ≤ HCC < H - 0.3, 
+D≥ - 0.5 
+Ejector Pins
+www.khoathinh.com
