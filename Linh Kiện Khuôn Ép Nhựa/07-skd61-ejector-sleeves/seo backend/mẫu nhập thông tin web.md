@@ -6,10 +6,10 @@ THÔNG TIN CƠ BẢN
 Quốc gia: Vietnam
 
 Tên sản phẩm:
-Ống Lót Chốt Đẩy SKD61 - SKD61 Ejector Sleeves (司筒)
+Ống Lót Chốt Đẩy SKD61 - SKD61 Ejector Sleeves
 
 Miêu tả ngắn:
-Ống lót chốt đẩy SKD61 chất lượng cao từ HUAN SIN, bề mặt nitrat hóa đạt 900HV, độ cứng vật liệu nền 40±3HRC. Đa dạng kích thước từ D4-D25mm, chiều dài tùy chỉnh 50-500mm. Phù hợp cho khuôn ép nhựa, đảm bảo độ chính xác và độ bền cao.
+Ống lót chốt đẩy SKD61 chất lượng cao từ Yas-Tek, bề mặt nitrat hóa đạt 900HV, độ cứng vật liệu nền 40±3HRC. Đa dạng kích thước từ D4-D25mm, chiều dài tùy chỉnh 50-500mm. Phù hợp cho khuôn ép nhựa, đảm bảo độ chính xác và độ bền cao.
 
 Nội dung chi tiết:
 <h2>Ống Lót Chốt Đẩy SKD61 - Giải Pháp Chuyên Nghiệp Cho Khuôn Ép Nhựa</h2>
@@ -67,7 +67,7 @@ Nội dung chi tiết:
 <p><strong>Liên hệ ngay với chúng tôi để được tư vấn chi tiết và báo giá tốt nhất!</strong></p>
 
 Thông tin mở rộng:
-- Tên: Nhà sản xuất | Giá trị: HUAN SIN COMPANY LIMITED
+- Tên: Nhà sản xuất | Giá trị: Yas-Tek COMPANY LIMITED
 - Tên: Mã sản phẩm | Giá trị: EVD-EVDT
 - Tên: Độ cứng bề mặt | Giá trị: 900HV
 - Tên: Độ cứng vật liệu nền | Giá trị: 40±3HRC
@@ -87,7 +87,7 @@ Linh Kiện Khuôn Ép Nhựa > Ejector Sleeves > SKD61 Ejector Sleeves
 - Chiều dài: 50-500mm
 
 Thương hiệu:
-HUAN SIN
+Yas-Tek
 
 Khối lượng (kg):
 [Tùy theo kích thước - cần tính toán cụ thể]
@@ -115,7 +115,7 @@ Cần upload:
 4. Ảnh bảng thông số kỹ thuật
 5. Ảnh ứng dụng thực tế
 6. Ảnh so sánh các kích thước
-7. Ảnh logo thương hiệu HUAN SIN
+7. Ảnh logo thương hiệu Yas-Tek
 8. Ảnh catalog/drawing kỹ thuật
 
 BIẾN THỂ
@@ -174,21 +174,21 @@ CẤU HÌNH CHUNG
 NHÃN (TAGS)
 ---------------------------------
 Viet Nam
-- ống lót chốt đẩy
-- ejector sleeves
-- SKD61
-- linh kiện khuôn ép nhựa
-- HUAN SIN
-- chốt đẩy khuôn
-- mold components
-- plastic injection mold
+ống lót chốt đẩy
+,ejector sleeves
+,SKD61
+,linh kiện khuôn ép nhựa
+,Yas-Tek
+,chốt đẩy khuôn
+,mold components
+,plastic injection mold
 -司筒
-- SKD61射銷套筒
-- ejector pin sleeve
-- mold ejector
-- khuôn ép nhựa
-- linh kiện khuôn
-- precision mold parts
+,SKD61射銷套筒
+,ejector pin sleeve
+,mold ejector
+,khuôn ép nhựa
+,linh kiện khuôn
+,precision mold parts
 
 SEO
 ---------------------------------
@@ -204,10 +204,10 @@ Tiêu đề trang (Title Tag): [70 ký tự]
 Ống Lót Chốt Đẩy SKD61 - Ejector Sleeves Chất Lượng Cao | YAS
 
 Mô tả trang (Meta Description): [360 ký tự]
-Ống lót chốt đẩy SKD61 (Ejector Sleeves) từ HUAN SIN - Bề mặt nitrat 900HV, vật liệu nền 40±3HRC. Đa dạng kích thước D4-D25mm, chiều dài 50-500mm. Giải pháp chuyên nghiệp cho khuôn ép nhựa, độ chính xác cao, tuổi thọ dài. Hỗ trợ gia công đặc biệt theo yêu cầu. Liên hệ YAS-TEK để được tư vấn và báo giá!
+Ống lót chốt đẩy SKD61 (Ejector Sleeves) từ Yas-Tek - Bề mặt nitrat 900HV, vật liệu nền 40±3HRC. Đa dạng kích thước D4-D25mm, chiều dài 50-500mm. Giải pháp chuyên nghiệp cho khuôn ép nhựa, độ chính xác cao, tuổi thọ dài. Hỗ trợ gia công đặc biệt theo yêu cầu. Liên hệ YAS-TEK để được tư vấn và báo giá!
 
 Từ khóa SEO:
-ống lót chốt đẩy SKD61, ejector sleeves SKD61, 司筒, SKD61射銷套筒, linh kiện khuôn ép nhựa, ejector pin sleeve, HUAN SIN ejector sleeves, ống lót chốt đẩy chất lượng cao, mold components Vietnam, plastic injection mold parts, SKD61 mold parts, ejector system, chốt đẩy khuôn ép nhựa, linh kiện khuôn chính밀, precision mold components
+ống lót chốt đẩy SKD61, ejector sleeves SKD61, 司筒, SKD61射銷套筒, linh kiện khuôn ép nhựa, ejector pin sleeve, Yas-Tek ejector sleeves, ống lót chốt đẩy chất lượng cao, mold components Vietnam, plastic injection mold parts, SKD61 mold parts, ejector system, chốt đẩy khuôn ép nhựa, linh kiện khuôn chính밀, precision mold components
 
 ========================================
 GHI CHÚ:
