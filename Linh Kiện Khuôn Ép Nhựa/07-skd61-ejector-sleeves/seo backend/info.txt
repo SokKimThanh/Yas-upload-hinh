@@ -1,0 +1,168 @@
+
+1
+
+Automatic Zoom
+TYPE
+JIShead4mmhead
+JIS head
+TH
+4mm head
+TH
+L or LC VL→1mm increments
+LC→0.01mm increments 0.1mm incrementsD
+4 50.00 ~ 150.00 1.5 ~ 2.550.00 ~ 200.00
+75.00 ~ 300.00
+100.00 ~ 500.00
+100.00 ~ 500.00
+100.00 ~ 500.00
+4.5
+5
+5.5
+6.5
+7.5
+6
+8
+8
+9
+10
+12
+15
+16
+20
+6
+8
+8
+9
+10
+11
+9
+1110 4
+12
+7
+13
+14
+15
+17
+20
+21
+25
+14
+15
+17
+20
+21
+25
+7EVDEVDT
+2.0 ~ 3.0
+2.0 ~ 3.5
+2.5 ~ 5.0
+2.5 ~ 5.5
+2.0 ~ 4.0
+2.5 ~ 4.5
+7.0 ~ 16.0
+5.0 ~ 11.5
+5.0 ~ 10.5
+4.0 ~ 8.5
+4.0 ~ 7.5
+2.5 ~ 6.5
+EVD - EVDT
+HUAN SIN COMPANY LIMITEDSKD61 EJECTOR SLEEVES
+SKD61射銷套筒(司筒)
+6 - 8mm 
+4mm   0- 0.02
+  0- 0.05
+T Tolerance LC L
+LC > 200→
++0.020
++0.05
+0
+LC > 500→+0.5
+0
++5
++0.1
+V ≤ 3.0
+L
+S
+V ≥ 6.53.5 ≤ V ≤ 6.0
++ 0.010
+0
++ 0.015
+0
++ 0.012
+0
+75 100 125 150
+30
+175 200 250
+LC ≤ 200→
+Order Example
+TYPE
+EVD
+LD V (VAK-AKC...etc)
+L125D6 V3.5 KC3.5
+Ejector Pins
+www.khoathinh.com
+VH7SKD61 Equivalent + Nitrided Surface: 900HV / Base Material: 40 ± 3HRC 
+H0
+－0.3
+C±0.1
+S－50
+V
+D
+H7
+0.05
+R ≤ 0.5
+T
+(L - S)
+L LCor
+- 0.02- 0.01
+C = V + 0.5
+EVD - EVDT
+Alterations Code Spec.
+KC －0.10 Single flat cutting
+D/2 ≤ KC < H/2KC
+WKC
+WKC 0－0.1 D/2 ≤ WKC < H/2
+WKC = 0.1mm increments
+KAC －0.1KBC 0 KAC
+KBC D/2 ≤ KAC < KBC < H/2
+KAC,KBC = 0.1mm increments
+RKC
+RKC－0.10 RKC D/2 ≤ RKC < H/2
+RKC = 0.1mm increments
+DKC
+DKC
+DKC 0
+－0.1
+DKC D/2 ≤ DKC < H/2
+DKC = 0.1mm increments
+KGC
+0
+KGC
+± 0.5AG°
+0° －0.1
+KGC
+KGC = 0.1mm increments
+AG = 1°
+D/2 ≤ KGC < H/2, 0 < AG < 360
+increments
+KTC 0120°
+120°
+－0.1
+120° KTC KTC = 0.1mm increments
+D/2 ≤ KTC < H/2
+T
+0－0.02TC TC
+TC = 0.1mm increments
+2.0 ≤ TC < 4, 4-TC ≤ Lmax - L 
+Dimension L remains unchanged 
+Dimension (L-S) become shorter by ( 4-TC) 
+H
+HC0
+－0.3
+HC HC = 0.1mm increments
+D ≤ HC < H
+EVD - EVDT
+HUAN SIN COMPANY LIMITEDSKD61 EJECTOR SLEEVES
+SKD61射銷套筒(司筒)
+Ejector Pins
+www.khoathinh.com
