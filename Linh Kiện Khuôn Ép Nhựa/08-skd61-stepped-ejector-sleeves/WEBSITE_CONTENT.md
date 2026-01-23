@@ -39,7 +39,7 @@
 ✓ **Chính xác cao:** Dung sai chặt chẽ đảm bảo lắp ghép hoàn hảo  
 ✓ **Linh hoạt:** Nhiều tùy chỉnh đặc biệt (KC, WKC, RKC, DKC, KGC, KTC, TC, HC)  
 ✓ **Đa dạng kích thước:** Sẵn có nhiều size tiêu chuẩn, hỗ trợ đặt hàng theo mm/0.01mm  
-✓ **Chất lượng ổn định:** Sản xuất bởi HUAN SIN - thương hiệu uy tín 30+ năm kinh nghiệm
+✓ **Chất lượng ổn định:** Quy trình sản xuất tiêu chuẩn Nhật Bản, kiểm soát chất lượng nghiêm ngặt
 
 ---
 
@@ -65,7 +65,7 @@
 | **Tiêu chuẩn sản xuất** | JIS (Japanese Industrial Standards) |
 
 ### Thương hiệu
-**HUAN SIN COMPANY LIMITED**
+**YAS-TEK**
 
 ### Mã sản phẩm
 **ESVD** (JIS head) / **ESVDT** (4mm head)
@@ -229,7 +229,7 @@ ESVDT - P10 V8 D12 LC250.50 N100
 7. ⭐ Ảnh sản phẩm lắp trong khuôn (ứng dụng thực tế)
 8. ⭐ Ảnh so sánh kích thước (nhiều size)
 9. ⭐ Ảnh chi tiết bề mặt nitơ hóa
-10. ⭐ Ảnh logo thương hiệu HUAN SIN
+10. ⭐ Ảnh logo thương hiệu YAS-TEK
 
 **Yêu cầu kỹ thuật ảnh:**
 - Định dạng: JPG/PNG
@@ -296,12 +296,12 @@ ESVDT - P10 V8 D12 LC250.50 N100
 
 **Tiếng Việt:**
 ```
-ống đẩy sản phẩm, ống đẩy hai bậc, linh kiện khuôn ép nhựa, SKD61, ống đẩy bậc thang, ejector sleeve, ống đẩy chính xác cao, linh kiện khuôn mẫu, ống đẩy nitơ hóa, khuôn ép nhựa, ejector pins, hệ thống đẩy sản phẩm, HUAN SIN, stepped sleeve, ống đẩy JIS, ống đẩy 4mm head
+ống đẩy sản phẩm, ống đẩy hai bậc, linh kiện khuôn ép nhựa, SKD61, ống đẩy bậc thang, ejector sleeve, ống đẩy chính xác cao, linh kiện khuôn mẫu, ống đẩy nitơ hóa, khuôn ép nhựa, ejector pins, hệ thống đẩy sản phẩm, stepped sleeve, ống đẩy JIS, ống đẩy 4mm head, YAS-TEK
 ```
 
 **Tiếng Anh:**
 ```
-SKD61 stepped ejector sleeves, ejector sleeve, stepped sleeve, nitrided sleeve, mold components, plastic injection mold parts, ejector pins system, H13 ejector sleeve, precision ejector, JIS standard sleeve, 4mm head sleeve, HUAN SIN, two-stage ejector, mold ejector parts
+SKD61 stepped ejector sleeves, ejector sleeve, stepped sleeve, nitrided sleeve, mold components, plastic injection mold parts, ejector pins system, H13 ejector sleeve, precision ejector, JIS standard sleeve, 4mm head sleeve, two-stage ejector, mold ejector parts, YAS-TEK
 ```
 
 **Mã sản phẩm:**
@@ -325,7 +325,7 @@ https://www.yas-tek.com/linh-kien-khuon-ep-nhua/skd61-stepped-ejector-sleeves
 
 ### Tiêu đề trang (65 ký tự)
 ```
-SKD61 Stepped Ejector Sleeves ESVD/ESVDT | HUAN SIN - YAS-TEK
+SKD61 Stepped Ejector Sleeves ESVD/ESVDT | YAS-TEK Vietnam
 ```
 
 **Tiêu đề thay thế:**
@@ -335,12 +335,12 @@ SKD61 Stepped Ejector Sleeves ESVD/ESVDT | HUAN SIN - YAS-TEK
 
 ### Mô tả trang (350 ký tự)
 ```
-Ống đẩy sản phẩm hai bậc SKD61 (ESVD/ESVDT) chính hãng HUAN SIN - Vật liệu SKD61 nitơ hóa đạt 900HV, độ chính xác H7, phạm vi D5-20mm, L50-500mm. Có 2 loại đầu JIS/4mm head, hỗ trợ 9 loại tùy chỉnh đặc biệt (KC, WKC, RKC...). Ứng dụng cho khuôn ép nhựa chính xác cao, công nghiệp ô tô, điện tử. Giao hàng nhanh toàn quốc, tư vấn kỹ thuật miễn phí. ☎ Hotline: [SĐT]
+Ống đẩy sản phẩm hai bậc SKD61 (ESVD/ESVDT) chất lượng cao - Vật liệu SKD61 nitơ hóa đạt 900HV, độ chính xác H7, phạm vi D5-20mm, L50-500mm. Có 2 loại đầu JIS/4mm head, hỗ trợ 9 loại tùy chỉnh đặc biệt (KC, WKC, RKC...). Ứng dụng cho khuôn ép nhựa chính xác cao, công nghiệp ô tô, điện tử. Giao hàng nhanh toàn quốc, tư vấn kỹ thuật miễn phí. ☎ Hotline: [SĐT]
 ```
 
 ### Từ khóa SEO (20 từ khóa)
 ```
-SKD61 stepped ejector sleeves, ống đẩy hai bậc SKD61, ESVD, ESVDT, ejector sleeve 900HV, linh kiện khuôn ép nhựa, ống đẩy sản phẩm chính xác cao, SKD61 nitrided sleeve, HUAN SIN ejector pins, ống đẩy JIS head, ống đẩy 4mm head, stepped sleeve H13, linh kiện khuôn mẫu, mold ejector components, ống đẩy bậc thang, ejector sleeve Vietnam, precision ejector parts, khuôn ép nhựa cao cấp, two stage ejector sleeve, YAS-TEK mold parts
+SKD61 stepped ejector sleeves, ống đẩy hai bậc SKD61, ESVD, ESVDT, ejector sleeve 900HV, linh kiện khuôn ép nhựa, ống đẩy sản phẩm chính xác cao, SKD61 nitrided sleeve, ống đẩy JIS head, ống đẩy 4mm head, stepped sleeve H13, linh kiện khuôn mẫu, mold ejector components, ống đẩy bậc thang, ejector sleeve Vietnam, precision ejector parts, khuôn ép nhựa cao cấp, two stage ejector sleeve, YAS-TEK mold parts, ejector pins chính hãng
 ```
 
 ---
