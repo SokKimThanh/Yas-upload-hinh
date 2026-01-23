@@ -1,0 +1,204 @@
+
+1
+
+Automatic Zoom
+N
+C
+D
+0－5
+－0.02
+－0.01
++5
+0
++5
+0
+H7V
+H－0.3
+0
+±0.1
+R
+S－ 50(L - S)
+(L - N)
+R ≤ 0.5
+T
+L LCor
+P - 0.02
+- 0.01
+C = V + 0.5
+4mm head
+H T
+JIS head
+H T
+TYPE
+JIShead4mmhead
+L or LC
+L→1mm increments
+LC→0.01mm increments
+D
+50.00 ~ 300.00
+70.00 ~ 500.00
+70.00 ~ 500.00
+70.00 ~ 500.00
+50.00 ~ 500.00
+P
+0.1mmincrements
+V
+0.1mmincrements
+N
+0.1mmincrements
+5
+5.5
+6
+6.5
+7
+7.5
+8
+9
+10
+12
+15
+16
+20
+3.50 ~ 4.95
+3.50 ~ 5.45
+4.00 ~ 5.95
+4.00 ~ 6.45
+4.00 ~ 6.95
+4.00 ~ 7.45
+5.00 ~ 7.95
+6.00 ~ 8.95
+6.00 ~ 9.95
+7.50 ~ 11.95
+10.00 ~ 14.95
+12.00 ~ 15.95
+14.50 ~ 19.95
+2.0 ~ 3.0
+2.0 ~ 3.5
+2.0 ~ 4.0
+2.0 ~ 4.5
+2.0 ~ 5.0
+2.5 ~ 5.5
+3.0 ~ 6.5
+3.0 ~ 7.5
+4.0 ~ 8.5
+5.0 ~ 10.5
+5.0 ~ 11.5
+7.0 ~ 16.0
+N ≥ L/3
+When
+L > 600
+L/3 ≤ N ≤ 2/3L
+ESVDESVDT
+6
+9
+9
+1110
+11
+10
+8
+12
+13
+14
+4
+15
+17
+20
+21
+25
+14
+15
+17
+20
+21
+25
+8
+SKD61雙節射銷套筒(雙節司筒)ESVD - ESVDT
+HUAN SIN COMPANY LIMITEDSKD61 STEPPED EJECTOR SLEEVES
+ VH7
+SKD61 Equivalent + Nitrided
+Surface: 900HV / Base Material: 40 ± 3HRC 
+6 - 8mm 
+4mm   0
+- 0.02
+  0
+- 0.05
+T ToleranceV ≤ 3.0
+L
+S
+V ≥ 6.53.5 ≤ V ≤ 6.0
++ 0.010
+0
++ 0.015
+0
++ 0.012
+0
+75 100 125 150
+30 
+175 200 250
+LC L
+LC > 200→
++0.020
++0.05
+0
+LC > 500→+0.50
++5
++0.1
+LC ≤ 200→
+Order Example
+TYPE
+ESVD
+PD VL(LC) N (VAK-AKC...etc)
+P5 V3.5D6 L125 N50 KC3.5
+Ejector Pins
+www.khoathinh.com
+ESVD - ESVDT
+Alterations Code Spec.
+KC －0.10 KC
+WKC
+WKC 0－0.1
+KAC －0.1KBC 0 KAC
+KBC
+RKC
+RKC－0.10 RKC D/2 ≤ RKC < H/2
+RKC = 0.1mm increments
+DKC
+DKC
+DKC 0
+－0.1
+DKC D/2 ≤ DKC < H/2
+DKC = 0.1mm increments
+KGC
+0
+KGC
+± 0.5AG°
+0° －0.1
+KGC
+KGC = 0.1mm increments
+AG = 1° increments
+D/2 ≤ KGC < H/2, 0 < AG < 360
+KTC 0120°
+120°
+－0.1
+120° KTC KTC = 0.1mm increments
+D/2 ≤ KTC < H/2
+T
+0－0.02TC TC
+TC = 0.1mm increments
+2.0 ≤ TC < 4, 4-TC ≤ Lmax - L 
+Dimension L remains unchanged 
+Dimension (L-S) become shorter by ( 4-TC) 
+H
+HC0
+－0.3
+HC HC = 0.1mm increments
+D ≤ HC < H
+D/2 ≤ KC < H/2
+KC = 0.1mm increments
+D/2 ≤ WKC < H/2
+WKC = 0.1mm increments
+D/2 ≤ KAC < KBC < H/2
+KAC, KBC = 0.1mm increments
+SKD61雙節射銷套筒(雙節司筒)ESVD - ESVDT
+HUAN SIN COMPANY LIMITEDSKD61 STEPPED EJECTOR SLEEVES
+Ejector Pins
+www.khoathinh.com
