@@ -1,0 +1,113 @@
+Dưới đây là các prompt chi tiết để tạo từng ảnh, dựa trên layout bạn đã cung cấp. Các prompt này được thiết kế để nạp vào các công cụ tạo ảnh AI, mô tả chính xác bố cục, nội dung text, màu sắc và phong cách hình ảnh.
+
+---
+
+### **PROMPT CHO ẢNH 1: BẢN VẼ KỸ THUẬT APV STANDARD**
+
+```markdown
+Technical drawing infographic, 1000x1000px square image.
+**HEADER (Top banner):** A gradient background from #0066CC (blue, left) to #0080FF (lighter blue, right). Centered white text "AIR POPPET VALVES" in Arial Black, 44pt. Below it, centered white text "APV STANDARD TYPE - Van Thông Khí Khuôn" in Arial Regular, 26pt. A horizontal accent line in #FF6600 (orange), 4px thick, below the text.
+**BODY (Main content):** Clean white background. Centered is a detailed technical side-view drawing of the APV Standard valve (based on the style of Image 22), vertical orientation. The drawing uses #333333 (dark grey) 3px outer lines, #666666 2px inner lines, and #CCCCCC 1px dashed hidden lines.
+- **Cone Highlight:** The 2° conical head area is filled with #FFF8E1 (pale yellow) and has a #FF6600 2px dashed border. A label "2°" in Arial Bold, 24pt, #FF6600 is pointing to this angle.
+- **Dimensions:** Blue (#0066CC) dimension lines with filled arrows.
+    - Top right: Arrow pointing to the head diameter, labeled "D" (large), with text "6-25mm" below it.
+    - Middle right: Arrow pointing to the stem diameter, labeled "d (m6)", with text "4.2-18.0mm" below it.
+    - Bottom: Arrow spanning the total length, labeled "L ±0.05", with text "12-45mm" below it.
+    - An arc line clearly shows the "2°" angle at the top cone, labeled in #FF6600.
+- **Annotations (Left side):** Grey text list (#666666) with icons: "⚙️ Vật liệu: SUS420", "📏 D: -0.1/-0.2mm", "📏 d: m6 tolerance", "📏 L: ±0.05mm".
+- **Detail Circle (Top right):** A circular zoom-in (⌀180px) with an orange border (#FF6600). Inside, a 4x magnified view of the 2° cone shows blue arrows (↑) for "Khí đi ra" and red arrows (↓) for "Nhựa bị chặn". Labeled "CHI TIẾT A - Cơ chế hoạt động" in orange.
+**INFO BOX (Below body):** Light blue background (#E3F2FD) with a blue border (#0066CC). A lightbulb icon (💡) on the left. Text: "Stainless Steel SUS420 - Martensitic Grade" (blue, bold), "Góc côn 2° - Thông khí hiệu quả, chặn nhựa chính xác" (dark grey), "Ứng dụng: Khuôn ép nhựa chính xác cao" (grey).
+**FOOTER (Bottom banner):** Separated by a blue 4px line. Left text: "6 Size tiêu chuẩn | D6-D25" (grey). Center: A blue box with white text "YAS-TEK" (Arial Black, 36pt). Below it, centered blue text "www.yas-tek.com".
+
+```
+
+---
+
+### **PROMPT CHO ẢNH 2: BẢN VẼ KỸ THUẬT HASCO-APV**
+
+```markdown
+Technical drawing infographic, 1000x1000px square image.
+**HEADER (Top banner):** Gradient background from #FF6600 (orange, left) to #FF8833 (lighter orange, right). Centered white text "HASCO AIR POPPET VALVES" in Arial Black, 42pt. Below it, centered white text "HASCO-APV | HASCO Compatible" in Arial Regular, 26pt. Right side text "HASCO Standard" in bold italic white.
+**BODY (Dual View):** Light grey background (#FAFAFA). Title "2 BIẾN THỂ - TYP1 & TYP2" in dark grey.
+- **Left Panel (TYP1):** White background with a blue border (#0066CC). Blue header "TYP1 (D16, D21)". A technical side-view drawing of TYP1 valve (based on Image 27) with #333333 lines. The 2° cone is highlighted with #E3F2FD (light blue) fill. Dimensions D, d1, d2, L1, L2, K are labeled with arrows. Below the drawing, a specs table shows data for D16 and D21.
+- **Right Panel (TYP2):** White background with an orange border (#FF6600). Orange header "TYP2 (D22)". A technical side-view drawing of TYP2 valve (based on Image 28), showing its different structure. The 2° cone is highlighted with #FFF3E0 (pale orange) fill. Dimensions D, d1, d2, L1, L2, K are labeled. Below the drawing, a specs table shows data for D22.
+- **Comparison Note:** A pale yellow box (#FFF8E1) between panels with text "💡 TYP2 có cấu trúc khác biệt, phù hợp cho ứng dụng đặc biệt".
+**MATERIAL INFO (Below body):** Light grey background (#F5F5F5). Title "Vật liệu Composite". Text: "1.4301 (Austenitic Stainless)" in blue, a large "+" symbol, and "SUS420 (Martensitic)" in orange.
+**FOOTER (Bottom banner):** Separated by an orange 4px line. Left: An orange badge with a checkmark icon and white text "HASCO Compatible". Center: A blue box with white text "YAS-TEK". Right: Text "3 Size | Chuẩn châu Âu" in dark grey.
+
+```
+
+---
+
+### **PROMPT CHO ẢNH 3: SO SÁNH APV vs HASCO-APV**
+
+```markdown
+Comparison infographic, 1000x1000px square image.
+**HEADER:** Linear gradient background from #0066CC (blue) to #FF6600 (orange). Centered white text "SO SÁNH 2 DÒNG VAN THÔNG KHÍ" in Arial Black, 42pt. Subtitle "APV Standard vs HASCO-APV" in white.
+**COMPARISON GRID:**
+- **Left Column (APV Standard - Blue theme):** Blue header box "APV STANDARD", subtitle "Tiêu chuẩn phổ thông". Below, a light grey box with a silhouette/drawing of APV valves (like Image 13/19) and a large blue label "6 SIZE". A white features list with green checkmark icons (✓): "Vật liệu: SUS420 full", "6 Size...", "Thiết kế đơn giản", "Giá thành hợp lý", "Dung sai...", "Phù hợp: Khuôn tiêu chuẩn". A green indicator box at the bottom with a money bag icon (💰) and text "Kinh tế".
+- **Center Divider:** A vertical grey line with a central orange circle containing a large white "VS". Arrows point left (blue) and right (orange).
+- **Right Column (HASCO-APV - Orange theme):** Orange header box "HASCO-APV", subtitle "Chuẩn châu Âu". Below, a pale orange box with a silhouette/drawing of HASCO-APV valves (like Image 26), a "HASCO" badge, and a large orange label "3 SIZE". A white features list with orange checkmark icons (✓): "Vật liệu: 1.4301 + SUS420", "3 Size...", "2 Type...", "HASCO Compatible", "Dung sai...", "Phù hợp: Khuôn chuẩn HASCO". A blue indicator box at the bottom with a star icon (⭐) and text "Premium".
+**DECISION GUIDE (Below grid):** A pale yellow box (#FFF8E1) with a dashed orange border. Lightbulb icon (💡) and title "CHỌN DÒNG NÀO?". Two columns of text: Left "→ Chọn APV nếu: Khuôn thiết kế tự do...", Right "→ Chọn HASCO-APV nếu: Khuôn theo chuẩn HASCO...".
+**FOOTER:** Blue background. Centered white text "YAS-TEK | Tư vấn miễn phí: www.yas-tek.com".
+
+```
+
+---
+
+### **PROMPT CHO ẢNH 4: BẢN VẼ KỸ THUẬT APV STANDARD**
+
+```markdown
+Data table infographic, 1000x1000px square image.
+**HEADER:** Solid blue background (#0066CC). Centered white text "APV STANDARD" in Arial Black, 46pt. Below it, "BẢNG KÍCH THƯỚC TIÊU CHUẨN" in white.
+**TABLE:** A large table with a light grey background (#F5F5F5) and a rounded blue border.
+- **Header Row:** Blue background, white text columns: "Part Number", "D (mm)", "d (mm)", "L (mm)". White vertical dividers.
+- **Data Rows:** Alternating white and light grey (#FAFAFA) rows with dark grey text.
+    - Rows for APV 6, APV 8, APV 10 with data (from Image 23/info.txt).
+    - **APV 12 Row:** Highlighted with a light blue background (#E3F2FD) and a "PHỔ BIẾN" badge. Data: "APV 12 | 12 | 7.7 | 25".
+    - Rows for APV 20, APV 25 with data.
+    - **Extended Rows:** Three rows at the bottom with a pale yellow background (#FFF8E1) and italic text for extended 'd' sizes (12.9, 14.9, 18.0).
+- **Horizontal dividers** between all rows.
+**TOLERANCE INFO (Below table):** A light blue box (#E3F2FD) with a blue border, divided into 3 columns by blue lines. Each column has a large blue label ("D", "d", "L") and its corresponding tolerance value ("-0.1 / -0.2 mm", "m6 (ISO 286-2)", "±0.05 mm") in dark grey text.
+**FOOTER:** Left text: "Vật liệu: SUS420 Stainless Steel". Center: Blue logo box "YAS-TEK". Right: "www.yas-tek.com".
+
+```
+
+---
+
+### **PROMPT CHO ẢNH 5: BẢN VẼ KỸ THUẬT HASCO-APV**
+
+```markdown
+Data table infographic, 1000x1000px square image.
+**HEADER:** Gradient background from orange (#FF6600) to lighter orange. A white circular "HASCO" badge in the top right. Centered white text "HASCO-APV" in Arial Black, 46pt. Below it, "THÔNG SỐ KỸ THUẬT CHI TIẾT" in white.
+**TABLE:** A large table with a pale orange background (#FFF3E0) and a rounded orange border.
+- **Header Row:** Orange background, white text columns: "Model", "D", "d1", "d2", "L1", "L2", "K", "Type". White vertical dividers.
+- **Data Rows (Large rows):**
+    - **Row 1 (D16):** White background. Gear icon ⚙️. Data: "HASCO-APV D16 | 16 | 6 | 8 | 8 | 8 | 5 | TYP1". A sub-row below with grey text for tolerances "d1: +0.02/+0.03 | K: +0.02/0".
+    - **Row 2 (D21):** Pale orange background (#FFF8F0) with a blue border highlight. "PHỔ BIẾN" badge. Data: "HASCO-APV D21 | 21 | 8 | 12 | 12 | 13 | 5 | TYP1". Sub-row with tolerances.
+    - **Row 3 (D22):** White background with orange highlight (#FFE0B2). "TYP2" badge. Data: "HASCO-APV D22 | 22 | 10 | 16 | 16 | 12 | 6 | TYP2". Sub-row with tolerances.
+- **Note Row:** A pale yellow row (#FFF8E1) at the bottom with a warning icon ⚠️ and text "TYP1 và TYP2 có cấu trúc khác nhau - Xem bản vẽ để biết chi tiết".
+**MATERIAL INFO (Below table):** An orange title box "VẬT LIỆU COMPOSITE". Below it, a white box with an orange border, showing "🔧 1.4301 (Austenitic...)" in blue, a large orange "+", and "⚙️ SUS420 (Martensitic...)" in orange.
+**FOOTER:** Separated by an orange line. Three badges: Orange "HASCO Compatible", Blue "YAS-TEK" logo, Green "Tiêu chuẩn châu Âu".
+
+```
+
+---
+
+### **PROMPT CHO ẢNH 6: CƠ CHẾ HOẠT ĐỘNG**
+
+```markdown
+Infographic, 1000x1000px square image.
+**HEADER:** Solid blue background (#0066CC). Centered white text "CƠ CHẾ HOẠT ĐỘNG" in Arial Black, 44pt. Subtitle "Air Poppet Valve Mechanism" in light blue.
+**SECTION 1 (Principle):** Title "NGUYÊN LÝ THÔNG KHÍ".
+- **Left Diagram:** A cross-section view of the valve (grey) seated in a mold. The 2° cone area is highlighted in pale yellow with an orange outline. Green arrows (↑) show air escaping through the gap. Red mass (↓) shows molten plastic being blocked. Labels: "Khí thoát", "Nhựa nóng chảy", "Góc 2°", "Khe hở". Annotations explain the process.
+- **Right Zoom:** A magnified "CHI TIẾT GÓC 2°" view in a pale yellow box with a dashed orange border, showing the air flow and plastic blockage in detail. A formula box: "Góc nhỏ = Khí thoát dễ", "Góc nhỏ = Chặn nhựa tốt".
+**SECTION 2 (4 Steps):** Title "4 BƯỚC HOẠT ĐỘNG". A 2x2 grid of four boxes.
+- **Step 1 (Top-left, Blue):** "1" badge, wind icon 💨. Title "Khí nén qua khe hở". Description and mini-diagram of air flow.
+- **Step 2 (Top-right, Orange):** "2" badge, angle icon 📐. Title "Góc 2° tạo lực đẩy". Description and mini-diagram of the angle's effect.
+- **Step 3 (Bottom-left, Red):** "3" badge, block icon 🚫. Title "Nhựa nóng chảy bị chặn". Description and mini-diagram of plastic blockage.
+- **Step 4 (Bottom-right, Green):** "4" badge, check icon ✓. Title "Bề mặt hoàn hảo". Description and mini-diagram of the final product surface.
+**BENEFITS BOX (Below steps):** A green gradient box (#00CC66 to #00AA55) with a white border. Title "KẾT QUẢ ĐẠT ĐƯỢC". Three columns with white check icons and text: "Không vết cháy", "Không bọt khí", "Bề mặt hoàn hảo".
+**FOOTER:** Separated by a blue line. Left info with lightbulb icon about the 2° angle. Right blue logo box "YAS-TEK".
+
+```
