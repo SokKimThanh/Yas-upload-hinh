@@ -44,7 +44,7 @@ Dựa trên thông tin kỹ thuật trong file info.txt, hãy tạo nội dung �
 - Phạm vi kích thước: [Size Range]
 
 **Thương hiệu**:
-- [Thương hiệu từ file info, ví dụ: HUAN SIN COMPANY LIMITED]
+- YAS-TEK (KHÔNG hiển thị thương hiệu nguồn hàng từ file info)
 
 **Mã sản phẩm**:
 - [Mã MODEL chính, ví dụ: ESVD, ESVDT]
@@ -89,10 +89,11 @@ Tạo bảng kích thước chuẩn từ thông tin trong file info:
 ### 6. HÌNH ẢNH
 
 **Yêu cầu hình ảnh cần tải lên**:
-- Hình ảnh sản phẩm thực tế (nếu có)
-- Hình ảnh bản vẽ kỹ thuật từ file info
+- Hình ảnh sản phẩm thực tế (đã xóa watermark/logo nguồn hàng)
+- Hình ảnh bản vẽ kỹ thuật từ file info (đã xóa tên công ty nguồn)
 - Hình ảnh kích thước chi tiết
-- Hình ảnh bảng thông số
+- Hình ảnh bảng thông số (đã xóa thông tin nhà sản xuất gốc)
+- Logo YAS-TEK (thay thế logo nguồn)
 - Tối thiểu 3-5 ảnh chất lượng cao
 
 ### 7. BIẾN THỂ SẢN PHẨM
@@ -125,6 +126,8 @@ Tạo bảng kích thước chuẩn từ thông tin trong file info:
   - stepped ejector
   - [tên sản phẩm]
   - [ứng dụng]
+  - YAS-TEK
+  - **KHÔNG bao gồm tên thương hiệu nguồn hàng**
 
 ### 10. SEO
 
@@ -166,6 +169,8 @@ Tạo bảng kích thước chuẩn từ thông tin trong file info:
    - Hấp dẫn nhưng trung thực
    - Tập trung vào lợi ích khách hàng
    - Chuyên nghiệp, B2B
+   - KHÔNG đề cập đến nguồn gốc nhà sản xuất gốc
+   - Chỉ sử dụng thương hiệu YAS-TEK
 
 ---
 
@@ -176,12 +181,20 @@ Tạo bảng kích thước chuẩn từ thông tin trong file info:
 - Cập nhật thông tin liên hệ, giá cả (nếu có)
 - Tối ưu cho cả desktop và mobile
 - Tuân thủ các tiêu chuẩn SEO
+- **QUAN TRỌNG: KHÔNG bao giờ đề cập đến thương hiệu nguồn hàng (như HUAN SIN, MISUMI, hoặc bất kỳ nhà sản xuất gốc nào)**
+- **Luôn sử dụng thương hiệu YAS-TEK trong mọi nội dung**
 
 ---
 
 ## VÍ DỤ ÁP DỤNG
 
 Với file info.txt hiện tại về "SKD61 STEPPED EJECTOR SLEEVES", hãy tạo đầy đủ nội dung theo 10 mục trên.
+
+**LƯU Ý QUAN TRỌNG:**
+- KHÔNG sử dụng tên thương hiệu nguồn hàng (như HUAN SIN, MISUMI...)
+- Thay thế MỌI thông tin thương hiệu bằng YAS-TEK
+- Loại bỏ mọi đề cập đến nhà sản xuất gốc
+- Tập trung vào thông số kỹ thuật, không nêu nguồn gốc
 ```
 
 ---
@@ -189,10 +202,12 @@ Với file info.txt hiện tại về "SKD61 STEPPED EJECTOR SLEEVES", hãy tạ
 ## Lưu ý khi sử dụng prompt
 
 1. **Copy toàn bộ nội dung** file info.txt vào ngữ cảnh trước khi yêu cầu AI tạo nội dung
-2. **Chỉnh sửa** các thông tin chung như thương hiệu, danh mục phù hợp với sản phẩm cụ thể
+2. **QUAN TRỌNG:** Yêu cầu AI KHÔNG hiển thị thương hiệu nguồn hàng, chỉ dùng YAS-TEK
 3. **Kiểm tra** kỹ các thông số kỹ thuật được AI tạo ra
-4. **Bổ sung** hình ảnh thực tế của sản phẩm nếu có
-5. **Tùy chỉnh** nội dung marketing cho phù hợp với đối tượng khách hàng
+4. **Loại bỏ** mọi thông tin về nhà sản xuất gốc (tên công ty, website, logo nguồn)
+5. **Bổ sung** hình ảnh thực tế của sản phẩm (đã xóa watermark nguồn nếu có)
+6. **Tùy chỉnh** nội dung marketing cho phù hợp với đối tượng khách hàng
+7. **Thay thế** mọi tên thương hiệu bằng YAS-TEK trước khi đăng
 
 ---
 

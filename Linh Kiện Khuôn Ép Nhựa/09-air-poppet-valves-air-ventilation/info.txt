@@ -1,0 +1,98 @@
+
+1
+
+Automatic Zoom
+Order Example
+TYPE
+APV D8
+D
+APV
+HUAN SIN COMPANY LIMITEDAIR POPPET VALVES (AIR VENTILATION)
+氣動頂針(空氣梢)
+4.2
+4.5
+7.0
+7.7
+10.3
+12.0
+12.9
+18.0
+14.9
+12
+15
+20
+25
+6
+8
+10
+12
+30
+35
+35
+45
+16
+18
+20
+4530
+25
+d LPart Number
+TYPE D
+APV
+APV
+L± 0.05
+Dm6
+d
+D - 0.1- 0.2
+SUS420
+TYPE
+APV
+Ejector Pins
+www.khoathinh.com
+Order Example
+TYPE
+HASCO-APV D12
+D
+HASCO-APV
+HUAN SIN COMPANY LIMITEDHASCO AIR POPPET VALVES 
+HASCO氣動頂針
+2
+1
+TYP
+5
+5
+6
+K
+16
+21
+22
+L2
+8
+13
+12
+L1
+8
+12
+16
+d1
+6
+8
+10
+d2
+8
+12
+16
+D
+1.4301
+L2
+L1 K +0,02
+2 ̊
+d2
+d1+0,03
++0,02
+TYP1 TYP2
+HASCO-APV
+SUS420
+TYPE
+HASCO-APV
+Ejector Pins
+www.khoathinh.com
