@@ -1,0 +1,132 @@
+
+1
+
+Automatic Zoom
+SUJ2 58HRC ~
+GPHE 
+－0.2
+0
+0.2 5°
+H
+T－0.20
+N
+L －0.5－1.0
+L
+Press-fit section (Dm6)
+Sliding part (D)
+Sliding part
+・ Details of tip GPHE8・GPHE10
+2~3
+(D)
+SR = D/2
+Sliding Parts Press-fit sectionSliding parts
+30 ~ 808
+10
+12
+13
+16
+20
+25
+30
+35
+40
+50
+60
+8
+10
+12
+13
+16
+20
+25
+30
+35
+40
+50
+60
+11
+13
+17
+18
+21
+25
+30
+35
+40
+45
+55
+65
+30 ~ 80
+30 ~ 200
+30 ~ 200
+30 ~ 250 8 ~ 80
+8 ~ 100
+8 ~ 120
+8 ~ 130
+8 ~ 130
+10 ~ 200
+12 ~ 200
+15 ~ 200
+30 ~ 300
+40 ~ 350
+50 ~ 400
+60 ~ 450
+80 ~ 500
+100 ~ 500
+200 ~ 500
+5 ~ 60
+5 ~ 80
+D Dm6
+- 0.013
+- 0.022
+- 0.030
+- 0.049
+- 0.016
+- 0.027
+- 0.020
+- 0.033
+- 0.025
+- 0.041
+8
+8
+510
+12
+12
+13
+16
+20
+25
+30
+35
+40
+50
+60
++ 0.015
++ 0.006
++ 0.030
++ 0.011
++ 0.018
++ 0.007
++ 0.021
++ 0.008
++ 0.025
++ 0.009
+T H TYPE D
+10
+15
+GPHE
+L
+5mm
+increments
+N
+1mmincrements
+TYPE
+GPHE
+D L N
+D30 L250 N40
+Order Example
+www.khoathinh.com
+Leader & Ejector Space Components
+GPHE
+HUAN SIN COMPANY LIMITEDPRECISION LEADER PINS - PLAIN WITH HEAD TYPE
+精密級導柱-無油槽型 GPHE
