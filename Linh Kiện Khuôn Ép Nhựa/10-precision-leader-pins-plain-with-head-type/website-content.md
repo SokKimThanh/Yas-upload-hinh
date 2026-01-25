@@ -319,39 +319,39 @@ Sản phẩm GPHE có các biến thể dựa trên kích thước:
 ### Nhãn/Tags
 
 **Tags tiếng Việt:**
-- linh kiện khuôn ép nhựa
-- chốt dẫn hướng
-- chốt dẫn hướng có đầu
-- chốt khuôn chính xác
-- leader pin
-- guide pin khuôn ép
-- SUJ2
-- thép dụng cụ
-- linh kiện khuôn công nghiệp
-- YAS-TEK
+,linh kiện khuôn ép nhựa
+,chốt dẫn hướng
+,chốt dẫn hướng có đầu
+,chốt khuôn chính xác
+,leader pin
+,guide pin khuôn ép
+,SUJ2
+,thép dụng cụ
+,linh kiện khuôn công nghiệp
+,YAS-TEK
 
 **Tags tiếng Anh:**
-- precision leader pins
-- guide pins with head
-- plain leader pins
-- mold guide components
-- ejector space components
-- SUJ2 guide pins
-- head type leader pins
-- die components
-- industrial mold parts
-- YAS-TEK
+,precision leader pins
+,guide pins with head
+,plain leader pins
+,mold guide components
+,ejector space components
+,SUJ2 guide pins
+,head type leader pins
+,die components
+,industrial mold parts
+,YAS-TEK
 
 **Tags kỹ thuật:**
-- GPHE
-- Dm6 tolerance
-- 58HRC
-- bearing steel
-- press fit guide pins
-- sliding components
+,GPHE
+,Dm6 tolerance
+,58HRC
+,bearing steel
+,press fit guide pins
+,sliding components
 
 **Lưu ý:** 
-- KHÔNG bao gồm: HUAN SIN, hoặc bất kỳ tên thương hiệu nguồn hàng nào
+,KHÔNG bao gồm: HUAN SIN, hoặc bất kỳ tên thương hiệu nguồn hàng nào
 - Tổng cộng: ~25 tags
 
 ---
@@ -389,29 +389,29 @@ Chốt dẫn hướng tiêu chuẩn cao GPHE - Plain with Head Type, vật liệ
 ### Từ khóa SEO (Keywords)
 
 **Từ khóa chính (Primary Keywords):**
-- chốt dẫn hướng khuôn ép nhựa
-- precision leader pins
-- GPHE leader pins
-- chốt khuôn có đầu
+,chốt dẫn hướng khuôn ép nhựa
+,precision leader pins
+,GPHE leader pins
+,chốt khuôn có đầu
 
 **Từ khóa phụ (Secondary Keywords):**
-- linh kiện khuôn ép nhựa
-- guide pins SUJ2
-- chốt dẫn hướng 58HRC
-- leader pins plain type
-- chốt khuôn Dm6
-- mold guide components
-- ejector space components
-- chốt dẫn hướng chính xác
-- industrial guide pins
-- YAS-TEK leader pins
+,linh kiện khuôn ép nhựa
+,guide pins SUJ2
+,chốt dẫn hướng 58HRC
+,leader pins plain type
+,chốt khuôn Dm6
+,mold guide components
+,ejector space components
+,chốt dẫn hướng chính xác
+,industrial guide pins
+,YAS-TEK leader pins
 
 **Từ khóa dài (Long-tail Keywords):**
-- chốt dẫn hướng khuôn ép nhựa 30mm
-- mua chốt khuôn SUJ2 chính hãng
-- precision leader pins vietnam
-- linh kiện khuôn chất lượng cao
-- guide pins for plastic injection mold
+,chốt dẫn hướng khuôn ép nhựa 30mm
+,mua chốt khuôn SUJ2 chính hãng
+,precision leader pins vietnam
+,linh kiện khuôn chất lượng cao
+,guide pins for plastic injection mold
 
 **Chuỗi từ khóa đầy đủ:**
 ```
