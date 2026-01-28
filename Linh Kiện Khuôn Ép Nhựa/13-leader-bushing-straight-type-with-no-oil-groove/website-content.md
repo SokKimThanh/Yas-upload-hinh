@@ -1,4 +1,4 @@
-# NỘI DUNG SẢN PHẨM - WEBSITE YAS-TEK
+# NỘI DUNG SẢN PHẨM ,WEBSITE YAS-TEK
 
 ## 1. THÔNG TIN CƠ BẢN
 
@@ -284,27 +284,69 @@ Sản phẩm GBS có nhiều biến thể kích thước để phù hợp với 
 ## 9. TỪ KHÓA TÌM KIẾM (SEO)
 
 **Từ khóa chính:**
-- Ống dẫn hướng thẳng
-- Leader bushing straight type
-- GBS bushing
-- Ống dẫn hướng không có rãnh dầu
+,Ống dẫn hướng thẳng
+,Leader bushing straight type
+,GBS bushing
+,Ống dẫn hướng không có rãnh dầu
 
 **Từ khóa phụ:**
-- Linh kiện khuôn ép nhựa
-- Leader bushing SUJ2
-- Ống dẫn hướng chính xác
-- Bushing khuôn ép nhựa
-- Ống dẫn hướng 58HRC
-- Leader bushing YAS-TEK
-- Ống dẫn hướng G6
-- Precision leader bushing
+,Linh kiện khuôn ép nhựa
+,Leader bushing SUJ2
+,Ống dẫn hướng chính xác
+,Bushing khuôn ép nhựa
+,Ống dẫn hướng 58HRC
+,Leader bushing YAS-TEK
+,Ống dẫn hướng G6
+,Precision leader bushing
 
 **Từ khóa ứng dụng:**
-- Linh kiện khuôn mẫu
-- Phụ kiện khuôn ép nhựa
-- Hệ thống dẫn hướng khuôn
-- Ejector guide components
-- Mold components Vietnam
+,Linh kiện khuôn mẫu
+,Phụ kiện khuôn ép nhựa
+,Hệ thống dẫn hướng khuôn
+,Ejector guide components
+,Mold components Vietnam
+
+---
+
+## 10. THÔNG TIN ĐĂNG TẢI WEBSITE
+
+### Nhãn (Tags)
+,Viet Nam
+,Linh Kiện Khuôn Ép Nhựa
+,Leader Bushing
+,GBS
+,SUJ2
+,Ống Dẫn Hướng
+
+### Đường dẫn (URL Slug)
+```
+ong-dan-huong-thang-gbs-leader-bushing-straight-type
+```
+hoặc
+```
+https://www.yas-tek.com/linh-kien-khuon-ep-nhua/ong-dan-huong-thang-gbs
+```
+
+### Tiêu đề trang (Page Title - Max 70 ký tự)
+```
+Ống Dẫn Hướng Thẳng GBS SUJ2 58HRC - YAS-TEK
+```
+(64 ký tự)
+
+### Mô tả trang (Page Description - Max 360 ký tự)
+```
+Ống dẫn hướng thẳng GBS chất lượng cao từ thép SUJ2 58HRC, dung sai chính xác G6/Dm5. Thiết kế không rãnh dầu, đường kính 4-60mm, chiều dài 15-120mm. Phù hợp cho khuôn ép nhựa chính xác, tuổi thọ cao. Sản phẩm YAS-TEK - Giao hàng nhanh, tư vấn miễn phí. Liên hệ ngay!
+```
+(298 ký tự)
+
+### SEO Keywords - Viet Nam
+- Ống dẫn hướng Việt Nam
+- Leader bushing Hà Nội
+- Leader bushing TP.HCM
+- Linh kiện khuôn Việt Nam
+- YAS-TEK Việt Nam
+- Mua ống dẫn hướng giá tốt
+- Leader bushing chính hãng
 
 ---
 
