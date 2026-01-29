@@ -118,15 +118,9 @@ Tạo bảng kích thước chuẩn từ thông tin trong file info:
 **Hiển thị sản phẩm**:
 - ☐ Tiêu biểu (nếu là sản phẩm chủ lực)
 
-**Nhãn/Tags**:
-- [Liệt kê các từ khóa liên quan, ví dụ:]
-  - linh kiện khuôn
-  - ejector sleeves
-  - SKD61
-  - stepped ejector
-  - [tên sản phẩm]
-  - [ứng dụng]
-  - YAS-TEK
+**Nhãn/Tags** (phân tách bằng dấu phẩy):
+- [Liệt kê các từ khóa liên quan, phân tách bằng dấu phẩy, ví dụ:]
+  - linh kiện khuôn, ejector sleeves, SKD61, stepped ejector, [tên sản phẩm], [ứng dụng], YAS-TEK
   - **KHÔNG bao gồm tên thương hiệu nguồn hàng**
 
 ### 10. SEO
