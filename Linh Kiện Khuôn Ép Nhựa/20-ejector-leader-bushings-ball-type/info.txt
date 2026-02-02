@@ -1,0 +1,66 @@
+
+1
+
+Automatic Zoom
+Dựa trên thông tin kỹ thuật từ tài liệu bạn cung cấp, dưới đây là nội dung chi tiết để đăng sản 
+phẩm mã EGB 20 lên website theo tiêu chuẩn của YAS-TEK. 
+1. THÔNG TIN CƠ BẢN 
+Tên sản phẩm: 
+●  Tên tiếng Việt: Bạc dẫn hướng tấm đẩy - Kiểu bi (Mã 20) 
+●  Tên tiếng Anh: Ejector Leader Bushing - Ball Type (No. 20) 
+●  Mã sản phẩm: EGB20 
+Miêu tả ngắn: 
+●  Bạc dẫn hướng EGB20 chuyên dụng cho hệ thống tấm đẩy trong khuôn mẫu, thiết kế tối 
+ưu để kết hợp với bộ bi (ball cage). 
+●  Sản phẩm được chế tạo từ thép SUJ2 với độ cứng cao, đảm bảo chuyển động mượt mà, 
+chính xác và giảm thiểu ma sát tối đa. 
+Nội dung chi tiết: 
+●  Giới thiệu sản phẩm: Bạc dẫn hướng EGB (Ejector Leader Bushing) là linh kiện quan 
+trọng trong bộ khuôn ép nhựa, giúp định vị và dẫn hướng chính xác cho tấm đẩy. Với cấu 
+tạo đặc biệt dành cho kiểu dẫn hướng bằng bi, EGB giúp hệ thống vận hành trơn tru hơn 
+so với bạc trơn truyền thống. 
+●  Đặc điểm kỹ thuật: Được làm từ thép hợp kinh SUJ2, xử lý nhiệt đạt độ cứng trên 
+58HRC, bề mặt được mài bóng chính xác với dung sai h6. 
+●  Ứng dụng: Sử dụng trong khuôn ép nhựa, khuôn đúc áp lực, đặc biệt là các khuôn yêu 
+cầu tốc độ đóng mở cao và độ chính xác vị trí tấm đẩy khắt khe. 
+●  Ưu điểm nổi bật: 
+○  Chống mài mòn cực tốt nhờ độ cứng bề mặt cao. 
+○  Dung sai lắp ghép chính xác, dễ dàng thay thế và bảo trì. 
+○  Giảm thiểu tình trạng kẹt tấm đẩy nhờ sự kết hợp với ống bi. 
+2. CHI TIẾT SẢN PHẨM 
+Danh mục sản phẩm: 
+●  Danh mục chính: Linh Kiện Khuôn Ép Nhựa 
+●  Danh mục phụ: Hệ Thống Dẫn Hướng Tấm Đẩy 
+Đặc điểm sản phẩm: 
+●  Vật liệu: Thép SUJ2  
+●  Độ cứng bề mặt: $\geq 58HRC$ 
+ 
+●  Dung sai đường kính ngoài (Dh6): $0 / -0.013$ mm (cho kích thước $\varnothing30$)  
+●  Độ nhám bề mặt: $1.6G$ (ngoài), $0.2G$ (trong)  
+●  Phạm vi kích thước: Đường kính ngoài $30mm$, đường kính trong $24mm$ (dành cho 
+mã No. 20).  
+Thương hiệu: 
+●  YAS-TEK 
+Mã sản phẩm: 
+●  EGB (No. 8 đến No. 30) 
+3. THÔNG SỐ KỸ THUẬT (Mã EGB20) 
+Thông số  Ký hiệu  Giá trị  Đơn vị  Ghi chú 
+Đường kính 
+trong 
+d  24  mm   
+Đường kính 
+ngoài thân 
+D (h6)  30  mm  Sai số 
+$0/-0.013$ 
+ 
+Đường kính 
+vành 
+D1  33  mm   
+Độ dày vành  T  4  mm  Sai số 
+$0/-0.05$ 
+ 
+Chiều dài tùy 
+chọn 
+l  13, 15, 20, 25  mm   
+Độ cứng  H  $\geq 58$  HRC   
+4. BẢNG KÍCH THƯỚC TIÊU CHUẨN (Dòng EGB) 
