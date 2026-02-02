@@ -1,15 +1,13 @@
 ### THÔNG TIN CƠ BẢN / BASIC INFO
 - Tên tiếng Việt: Chốt dẫn hướng tấm đẩy (Ejector Guide Pins)
 - English name: Ejector Guide Pins EGP
-- Mã sản phẩm: EGP (d6~50, bước L 5 mm)
+- Mã sản phẩm: EGP, d6~50, bước L 5 mm
 
 **Miêu tả ngắn**
-- Chốt dẫn hướng tấm đẩy có ren lắp, dung sai chính xác, độ cứng cao.
-- Thép SUJ2, nhiệt luyện 58 HRC~, mặt mài 1.6G/0.2G.
+Chốt dẫn hướng tấm đẩy có ren lắp, dung sai chính xác và độ cứng cao; thép SUJ2 nhiệt luyện ~58 HRC, bề mặt mài 1.6G/0.2G.
 
 **Nội dung chi tiết**
-- Ứng dụng: Dẫn hướng tấm đẩy trong khuôn ép nhựa, lắp với bạc dẫn hướng tương ứng.
-- Đặc điểm: Đầu ren M4~M10 tùy cỡ; chiều dài L 30~350 mm; dung sai D -0.010 ~ -0.030 mm theo cỡ.
+Ứng dụng dẫn hướng tấm đẩy trong khuôn ép nhựa, lắp với bạc dẫn hướng tương ứng. Đầu ren M4~M10 tùy cỡ, chiều dài L 30~350 mm, dung sai đường kính D từ -0.010 đến -0.030 mm tùy kích thước.
 
 ### CHI TIẾT SẢN PHẨM
 - Danh mục chính: Linh Kiện Khuôn Ép Nhựa

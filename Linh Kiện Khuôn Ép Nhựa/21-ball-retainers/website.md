@@ -1,7 +1,7 @@
 ### THÔNG TIN CƠ BẢN / BASIC INFO
 - Tên tiếng Việt: Bạc giữ bi (Ball Retainer) EMBS
 - English name: Ball Retainers EMBS
-- Mã sản phẩm: EMBS (Type EMBS d8~30)
+- Mã sản phẩm: EMBS, d8~30
 
 **Miêu tả ngắn**
 - Ống giữ bi dùng cho cụm dẫn hướng bi, giảm ma sát và phân bổ lực đều.

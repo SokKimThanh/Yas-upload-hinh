@@ -1,15 +1,13 @@
 ### THÔNG TIN CƠ BẢN / BASIC INFO
 - Tên tiếng Việt: Trụ đỡ có rãnh dầu (Support Pins - Oil Groove)
 - English name: Support Pins - Oil Groove (SP)
-- Mã sản phẩm: SP d13~40 (Df6/Dk6)
+- Mã sản phẩm: SP d13~40, Df6/Dk6
 
 **Miêu tả ngắn**
-- Trụ đỡ có rãnh dầu, vùng ép k6 và vùng trượt f6, tôi cứng bề mặt.
-- Thép SUJ2, tôi cao tần 58 HRC~, có rãnh dầu dọc giúp bôi trơn.
+Trụ đỡ có rãnh dầu, vùng ép k6 và vùng trượt f6, tôi cứng bề mặt; vật liệu SUJ2, tôi cao tần ~58 HRC, rãnh dầu dọc giúp bôi trơn.
 
 **Nội dung chi tiết**
-- Ứng dụng: Đỡ/định vị tấm khuôn, chịu tải trượt; có vùng ép chặt (N) tùy chọn.
-- Đặc điểm: Dung sai press-fit Dk6, sliding Df6; có ren M6/M10/M12/M16 ở đầu; chiều dài L bước 5 mm; N (đoạn ép) bước 1 mm.
+Ứng dụng đỡ/định vị tấm khuôn, chịu tải trượt, có vùng ép chặt N tùy chọn. Dung sai press-fit Dk6, sliding Df6; đầu ren M6/M10/M12/M16 tùy kích thước; chiều dài L bước 5 mm; đoạn ép N bước 1 mm.
 
 ### CHI TIẾT SẢN PHẨM
 - Danh mục chính: Linh Kiện Khuôn Ép Nhựa

@@ -1,15 +1,13 @@
 ### THÔNG TIN CƠ BẢN / BASIC INFO
 - Tên tiếng Việt: Chốt hồi (Return Pins)
 - English name: Return Pins (RP4/RP8 Series)
-- Mã sản phẩm: RP4TH / RP4TJ / RP8TH / RP8TJ (đầu 4mm hoặc 8mm)
+- Mã sản phẩm: RP4TH / RP4TJ / RP8TH / RP8TJ, đầu 4 mm hoặc 8 mm
 
 **Miêu tả ngắn**
-- Chốt hồi tấm đẩy, đầu phẳng độ vuông góc cao, chiều dài lớn.
-- Thép SUJ2, nhiệt luyện 58~HRC, dung sai trượt f6.
+Chốt hồi tấm đẩy, đầu phẳng độ vuông góc cao, chiều dài lớn; thép SUJ2, nhiệt luyện ~58 HRC, dung sai trượt f6.
 
 **Nội dung chi tiết**
-- Ứng dụng: Đẩy hồi tấm khuôn, làm stop pin; dùng được cho hành trình dài.
-- Đặc điểm: Đầu 4mm hoặc 8mm; chiều dài 150~700 mm (bước 50 mm); dung sai D f6; đầu vuông góc 0.05~0.1 mm.
+Ứng dụng để đẩy hồi tấm khuôn hoặc làm stop pin, phù hợp hành trình dài. Có lựa chọn đầu 4 mm hoặc 8 mm; chiều dài từ 150 đến 700 mm (bước 50 mm); dung sai D f6; đầu vuông góc 0.05~0.1 mm.
 
 ### CHI TIẾT SẢN PHẨM
 - Danh mục chính: Linh Kiện Khuôn Ép Nhựa
