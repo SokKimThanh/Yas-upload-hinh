@@ -1,0 +1,294 @@
+
+1
+
+Automatic Zoom
+AP-APS
+HUAN SIN COMPANY LIMITEDANGULAR PINS
+斜撐梢 
+AP
+1.6 G
+Df6
+S
+L
+N
+Dm5
+T－0.2
+± 0.2
+± 0.2
+± 15 ́
+H－0.2
+S
+0
+0
+1.6 G
+(    ø50 A° ±30')
+(    ø50 A° ±30')
+0.3
+APS  (Stepped type)
+S
+2
+D－1SR=
+S
+L
+N
+Dm5
+T－0.2
+－0.2
+H
+＊C
+0
+0
+(D－1) －0.05
+0
+2
+D－1SR=
+A°
+± 15 ́A°
+max.2(when D=4~8, R is 0.5 or less)
+max.2(when D=4~8, R is 0.5 or less)
+SR=D/2
+Profile tolerance of SR
+SR=D/2
+ R ≤ 0.5
+ R ≤ 0.5
+0.3Profile tolerance of SR
+4 ~ 8 SKD11 60 ~ 63HRC
+10 ~ 50 SUJ2 58HRC ~
+D
+When D=25 or more, 
+the pin tip becomes as 
+shown in the drawing 
+on the left.
+When D=4~8, R is 0.5 
+or less.
+When D=25 or more, 
+the pin tip becomes as 
+shown in the drawing 
+on the left.
+When D=4~8, R is 0.5 
+or less.
+* For D4~25, C-chamfering is performed on the edges of the steps.(Recess of C-chamfering for assembling about C0.3)
+Machining may leave a check keyhole one one end of the pin in case of D=20 or 25. Dimensions of the pin with chuck keyholes are values prior to 
+machining of the holes. In case of D=30 or more , the both ends may have chuck keyholes.
+Machining may leave a check keyhole one one end of the pin in case of D=20 or 25. Dimensions of the pin with chuck keyholes are values prior to 
+machining of the holes. In case of D=30 or more , the both ends may have chuck keyholes.
+Alterations Code Spec.
+TC
+KAC
+DKC
+TC
+min.2
+A° Single flat chamfering
+Changes the head shape from 
+a cone to a singe flat cut 
+DKC
+C
+N
+DC
+N
+Tapered 30°
+TC = 0.1mm increment
+T  TC ≥ H/2 tanA+2.0
+Available when D ≤ 30
+Available when D ≤ 30
+Available when N ≤ 200
+Alterations Code Spec.
+CM
+DC
+TM
+Press-fit section tolerance alteration
+Changes Dm5 D+0.0050
+Performs C chamfering on the edge of 
+the step.
+Chamfering is performed as standard 
+for D ≤ 25
+Available for APS when D ≥ 30
+Changes(D －1) step by designation.
+DC=0.1mm increment
+Tolerance of the step's external diameter:  0－0.05
+Available for APS when D≤30
+D －1 ≥ DC D －1
+When DC is used SR=DC/2
+Adds a 30° taper on the edge of step.
+(Taper for installation)
+ Available for APS
+Combination with CM・DC not available
+TYPE
+AP
+D L N A
+Order Example
+L150D16 N50 A20- - - -
+Recess of C-chamfering for assembling: 
+about C0.3.
+www.khoathinh.com
+Leader & Ejector Space Components
+AP-APS
+HUAN SIN COMPANY LIMITEDANGULAR PINS
+斜撐梢
+D T H S
+D L N
+APart Number 0.1mm increment
+1° incrementTYPEAP APSm5 f6
+(AP)
+15.0 ~ 70.04
+5
+6
+8
+10
+12
+13
+15
+16
+20
+1.5
+2
+2.5
+3.5
+4.5
+5.5
+6
+7
+7.5
+2
+2.5
+3
+4
+5
+6
+6.5
+7.5
+8
+7
+8
+9
+11
+13
+15
+16
+18
+19
+23
+28
+9.5
+10
+10
+25
+3035
+3237
+3540
+40
+50
+45
+55
+4
+5
+6
+8
+10
+12
+13
+15
+16
+20
+25
+30
+32
+35
+40
+50 20
+15
+13
+10
+2 ≤ N
+N ≤ L–T–1
+or
+N = 0
+70.1 ~ 90.0
+15.0 ~ 70.0
+70.1 ~ 90.0
+90.1 ~ 100.0
+15.0 ~ 70.0
+70.1 ~ 90.0
+90.1 ~ 110.0
+15.0 ~ 80.0
+80.1 ~ 110.0
+110.1 ~ 130.0
+20.0 ~ 110.0
+110.1 ~ 160.0
+160.1 ~ 200.0
+20.0 ~ 110.0
+110.1 ~ 160.0
+160.1 ~ 200.0
+200.1 ~ 250.0
+20.0 ~ 110.0
+110.1 ~ 160.0
+160.1 ~ 200.0
+200.1 ~ 250.0
+20 ~ 110.0
+110.1 ~ 160.0
+160.1 ~ 200.0
+200.1 ~ 250.0
+20.0 ~ 110.0
+110.1 ~ 160.0
+160.1 ~ 200.0
+200.1 ~ 250.0
+40.0 ~ 130.0
+130.1 ~ 200.0
+200.1 ~ 300.0
+300.1 ~ 350.0
+40.0 ~ 130.0
+130.1 ~ 200.0
+200.1 ~ 300.0
+300.1 ~ 350.0
+350.1 ~ 400.0
+60.0 ~ 160.0
+160.1 ~ 220.0
+220.1 ~ 300.0
+300.1 ~ 400.0
+400.1 ~ 500.0
+70.0 ~ 160.0
+160.1 ~ 220.0
+220.1 ~ 300.0
+300.1 ~ 400.0
+400.1 ~ 500.0
+100.0 ~ 160.0
+160.1 ~ 220.0
+220.1 ~ 300.0
+300.1 ~ 400.0
+400.1 ~ 500.0
+100.0 ~ 160.0
+160.1 ~ 220.0
+220.1 ~ 300.0
+300.1 ~ 400.0
+400.1 ~ 500.0
+200.0 ~ 260.0
+260.1 ~ 320.0
+320.1 ~ 400.0
+400.1 ~ 500.0
++0.009
++0.004
+–0.010
+–0.018
+–0.013
+–0.022
+–0.016
+–0.027
+–0.020
+–0.033
+–0.025
+–0.041
++0.012
++0.006
++0.015
++0.007
++0.017
++0.008
++0.020
++0.009
+5
+0 ~ 30
+AP
+APS (Stepped type)  (No press-fit
+     section)
+www.khoathinh.com
+Leader & Ejector Space Components

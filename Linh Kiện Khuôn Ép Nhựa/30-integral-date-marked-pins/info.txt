@@ -1,0 +1,229 @@
+
+1
+
+Automatic Zoom
+Indiaction
+Outside
+rings
+divisions
+Part Number
+TYPE D
+Month - Day - No-marking Type
+Month
+4
+5
+6
+8
+10
+16
+20
+4
+5
+6
+8
+10
+16
+20
+4
+5
+6
+8
+10
+16
+16
+20
+4
+5
+6
+8
+10
+16
+20
+20
+1 2 345678
+1211
+10
+9
+C-DTD
+C-DTE
+C-DTF
+C-DTG
+C-DTN
+12
+Uniform
+divisions
+10
+Uniform
+divisions
+12
+Uniform
+divisions
+12
+Uniform
+divisions
+12
+Uniform
+divisions
+Day (1st digit)
+Day (2nd digit)
+No - marking
+Day
+0
+1
+2
+3
+1 5
+1020
+25
+15
+9
+8
+7
+6 5 4
+3
+2
+10
+C-DT
+HUAN SIN COMPANY LIMITEDINTEGRAL DATE MARKED PINS
+整體式日期章
+3
+4
+5
+6
+8
+10
+12
+16
+20
+10
+16
+20
+C-DTBBUniform
+divisions
+Year・Month Days to ship will be 5-days for 
+the adjustment of production after 
+November 2024.
+24 for 2024
+25 for 2025
+(available from Sept.,2024)
+Days to ship will be 5-days for 
+the adjustment of production after 
+November 2025.
+Indiaction
+Outside
+rings
+divisions
+Part Number
+TYPE D Year
+Year - Month Type
+Indiaction
+Outside
+rings
+divisions
+Part Number
+TYPE D
+4
+5
+6
+8
+4
+5
+6
+8
+10
+16
+C-DT
+C-DTS
+12
+Uniform
+divisions
+12
+Uniform
+divisions
+6 Year Type
+4 Year Type 24 for 2024
+25 for 2025
+(available from Sept.,2024)
+Days to ship will be 5-days for 
+the adjustment of production after 
+November 2025.
+Year
+Year Switching Type
+24
+27
+26
+25
+24
+28
+29
+27
+25
+26
+Days to ship will be 5-days for the 
+adjustment of production after 
+November 2024. 
+～2027
+～2028
+(available from Sept.,2023)
+24 for 2024
+25 for 2025
+Days to ship will be 5-days for 
+the adjustment of production after 
+November 2025.
+Days to ship will be 5-days for the 
+adjustment of production after 
+November 2024. 
+～2029
+～2030
+9
+8
+7 6 5
+4
+3
+2
+1
+42
+1211
+10 12
+Order Example
+TYPE Year
+C-DTS8 24
++0.012+0.004
++0.018
++0.007
++0.021+0.008
++0.012
++0.004
++0.015
++0.006
+4 1.9
+5
+6
+2.3
+8
+2.9
+3.9
+4.9
+8
+10
+12
+16
+145.5
+7.4
+8.7
+8
+10
+12
+16
+20
+3
+Dm6 d L
+L±0.02
+Dm6
+d
+≤1
+≤1.5
+≤2
+SUS420 50~53HRC
+www.khoathinh.com
+Date & Recycle Mark Inserts

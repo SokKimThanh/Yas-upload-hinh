@@ -1,0 +1,91 @@
+
+1
+
+Automatic Zoom
++0.15
++0.20
+L
+D
+M
+1.6G
+0.2
+CC
+A0.02
+A
+6 ~ 30
+32 ~ 52
+0.5
+1.0
+CD
+SUJ2 58HRC~ Squareness of the end face id made 0.02mm or less
+EGP
+EGP
+HUAN SIN COMPANY LIMITEDEJECTOR GUIDE PINS
+射銷板導柱
+D D LM*Pitch Type
+- 0.010
+- 0.015
+- 0.015
+- 0.020
+- 0.020
+- 0.025
+- 0.025
+- 0.030
+- 0.025
+- 0.030
+6
+8
+8
+10
+12
+16
+20
+20
+6M4*0.7
+M5*0.8
+M8*1.25
+M10*1.5
+M10*1.5
+M6*1
+30 ~ 80
+30 ~ 100
+30 ~ 100
+40 ~ 100
+40 ~ 150
+40 ~ 150
+40 ~ 175
+50 ~ 250
+50 ~ 300
+50 ~ 300
+50 ~ 350
+50 ~ 350
+8
+10
+12
+13
+16
+20
+25
+30
+35
+40
+50
+10
+12
+13
+16
+20
+25
+30
+35
+40
+50
+EGP
+increment 5mm
+Order Example
+TYPE
+EGP
+D L
+- -D20 L120
+www.khoathinh.com
+Leader & Ejector Space Components

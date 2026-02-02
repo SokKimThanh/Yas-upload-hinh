@@ -1,0 +1,81 @@
+
+1
+
+Automatic Zoom
+HUAN SIN COMPANY LIMITEDTENSION LINKS - LONG STROKE TYPE -
+TLK 定距拉板
+S45C
+B    0+0.1
+4－C1 ~ 3
+S ±0.1
+±0.1
+L+0.30
+2－C3
+4－C3
+16
+9
+A
+TLK
+TLK
+TLKH
+TLKH
+(R)
+Fig. 1 Mold closed Fig. 2 Mold opened
+TLK
+1
+2
+TLK
+1 2
+Please use with 3mm counterbore when installing TLKH.
+Please use with 3mm counterbore when installing TLKH.
+Example for mounting TLK • TLKH
+• When special retainer (LKT)s used
+• When special retainer (LKR/LKRH)s used
+Order Example
+TYPE
+TLK25
+S
+100
+11
+14
+17
+21
+14.5
+17
+18.5
+20.5
+S + 29
+S + 34
+S + 37
+S + 41
+19
+25
+32
+38
+50 ~ 230 (250)
+50 ~ 270 (300)
+80 ~ 350 (400)
+100 ~ 400 (450)
+TLK
+TLKH
+B L Part Number
+TYPE A
+S
+5mm increments
+Alteration Code Spec.
+SC
+SC
+SC=1mm increments Part Number SC designation range
+±0.1
+TLK/TLKH19
+TLK/TLKH25
+TLK/TLKH32
+TLK/TLKH38
+50 < SC < 230(250)
+50 < SC < 270(300)
+80 < SC < 350(400)
+100 < SC < 400(450)
+–
+The figures in ( ) are applicable for TLK only 
+www.khoathinh.com
+Mold Opening Controllers

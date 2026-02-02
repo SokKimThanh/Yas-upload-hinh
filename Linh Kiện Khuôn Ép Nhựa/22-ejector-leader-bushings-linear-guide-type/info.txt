@@ -1,0 +1,154 @@
+
+1
+
+Automatic Zoom
+d
+6
+8
+10
+12 19
+24
+29
+32
+37
+42
+59
+64
+44
+54
+15
+19
+23
+28
+32
+40
+45
+40
+45
+13
+16
+20
+25
+30
+25
+30
+LDh6 Part Number
+Type dD1 1 2 3 t W
+0- 0.009
+0
+- 0.010
+0- 0.010
+0- 0.011
+0- 0.013
+0
+- 0.016
+0- 0.016
+0
+- 0.3
+0
+- 0.2
+15.5
+19.3
+23.6
+28.5
+34.2
+38.4
+47.1
+52.8
+47.1
+52.8
+2.75
+3.5
+4.5
+5.25
+5.75
+9
+9.75
+6.25
+7.75
+20
+25
+25
+25
+30
+30
+9
+10
+13
+13
+15
+20
+20
+25
+20
+25
+1.0
+1.2
+1.5
+1.75
+1.75
+1.1
+1.3
+1.6
+1.85
+1.85
+206 (21)
+265 (27)
+373 (38)
+510 (52)
+775 (79)
+863 (88)
+764 (78)
+981 (100)
+1.569(160)
+1.442(147)
+EGBL
+EGBLT
+Dynamic loadN ( kgf )
+(Short type)
+3.25
+6
+10
+13
+16
+20
+25
+30
+25
+30
+8
+Order Example
+TYPE
+EGBL10
+EGBLT25
+0
+- 0.3
+EGBL
+HUAN SIN COMPANY LIMITEDEJECTOR LEADER BUSHINGS - LINEAR GUIDE TYPE
+推板導套-直線滾珠型 
+d
+Dh6
+D1
+W
+L
+2
+－0.5 31 －0.8
+－0.5－0.8
+t Snap ring Snap ring (1 pc.)
+EGBW
+EGBL (Steel)
+EGBLT
+(Steel - Short type) 
+This product is delivered 
+with a snap ring set in 
+the     groove.1
+TYPE
+EGBL
+EGBLT
+Bushing body, balls Ball retainer
+SUJ2 equivalent
+58HRC~
+Steel
+－
+www.khoathinh.com
+Leader & Ejector Space Components

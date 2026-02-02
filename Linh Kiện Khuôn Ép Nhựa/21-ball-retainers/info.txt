@@ -1,0 +1,115 @@
+
+1
+
+Automatic Zoom
+L
+d d1
+EMBS
+C3604Ball retainer
+SUJ2Ball
+EMBS
+HUAN SIN COMPANY LIMITEDBALL RETAINERS
+鋼珠襯套
+Ball Dia Part Numberd d1 Type No.
+2 EMBS
+8.5 11.5
+10.5 13.5
+13.5 16.5
+16.5 19.5
+20.5 23.5
+25.5 28.5
+30.5 33.5
+8
+10
+13
+16
+20
+25
+30
+25 30
+25 30
+35 40
+35 40
+35
+45 50
+55 60
+70
+35 40
+45 50
+55 60
+65 70
+35 40
+45 50
+55 60
+65 70
+35 40
+45 50
+55 60
+65 70
+35 40
+45 50
+55 60
+65 70
+L
+Order Example
+TYPE L
+EMBS20 L45
+65
+www.khoathinh.com
+1
+
+Automatic Zoom
+L
+d d1
+EMBS
+C3604Ball retainer
+SUJ2Ball
+EMBS
+HUAN SIN COMPANY LIMITEDBALL RETAINERS
+鋼珠襯套
+Ball Dia Part Numberd d1 Type No.
+2 EMBS
+8.5 11.5
+10.5 13.5
+13.5 16.5
+16.5 19.5
+20.5 23.5
+25.5 28.5
+30.5 33.5
+8
+10
+13
+16
+20
+25
+30
+25 30
+25 30
+35 40
+35 40
+35
+45 50
+55 60
+70
+35 40
+45 50
+55 60
+65 70
+35 40
+45 50
+55 60
+65 70
+35 40
+45 50
+55 60
+65 70
+35 40
+45 50
+55 60
+65 70
+L
+Order Example
+TYPE L
+EMBS20 L45
+65
+www.khoathinh.com
