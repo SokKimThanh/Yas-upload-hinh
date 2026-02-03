@@ -1,43 +1,117 @@
-### THÔNG TIN CƠ BẢN / BASIC INFO
-- Tên tiếng Việt: Chốt ngày liền khối (Integral Date Marked Pins)
-- English name: Integral Date Marked Pins (C-DT series)
+### 1. THÔNG TIN CƠ BẢN
+
+**Tên sản phẩm**
+- Tên tiếng Việt: Chốt ngày liền khối
+- Tên tiếng Anh: Integral Date Marked Pins
 - Mã sản phẩm: C-DT / C-DTS / C-DTD / C-DTE / C-DTF / C-DTG / C-DTN / C-DTBB
 
 **Miêu tả ngắn**
-- Chốt ngày liền khối, vòng năm/tháng/ngày khắc sẵn, không cần tháo lõi.
-- Vật liệu SUS420, độ cứng 50~53 HRC, nhiều kiểu hiển thị.
+Chốt ngày liền khối C-DT khắc sẵn vòng năm/tháng/ngày, lắp cố định và vận hành ổn định. Vật liệu SUS420, độ cứng 50~53 HRC, nhiều kiểu hiển thị theo chuẩn vòng chia.
 
 **Nội dung chi tiết**
-- Ứng dụng: Đánh dấu ngày sản xuất trực tiếp trên sản phẩm; lắp cố định.
-- Đặc điểm: Đường kính D 3~20 mm; vòng chia 12/10/31 nấc tùy kiểu; có kiểu Year-Month, Month-Day, No-marking; ren giữ M1.6~M4.
+C-DT là dòng chốt ngày liền khối, không cần tháo lõi khi thay đổi chỉ thị. Có các kiểu Year–Month, Month–Day, Day và No-marking; vòng ngoài chia đều theo 12/10/31 nấc tùy loại. Đường kính D từ 3~20 mm, dung sai Dm6/d, chiều dài L $\pm 0.02$ mm, lắp trực tiếp vào khuôn để đánh dấu ngày sản xuất trên sản phẩm nhựa.
 
-### CHI TIẾT SẢN PHẨM
+### 2. CHI TIẾT SẢN PHẨM
+
+**Danh mục sản phẩm**
 - Danh mục chính: Linh Kiện Khuôn Ép Nhựa
 - Danh mục phụ: Date & Recycle Mark Inserts
+
+**Đặc điểm sản phẩm**
 - Vật liệu: SUS420
 - Độ cứng: 50~53 HRC
-- Phạm vi kích thước: D 3/4/5/6/8/10/12/16/20; L ±0.02; H, T, B, K theo bảng
-- File đính kèm: integral-date-marked-pins info/PDF trong thư mục
+- Dung sai: Dm6; L $\pm 0.02$ mm
+- Phạm vi kích thước: D 3 / 4 / 5 / 6 / 8 / 10 / 12 / 16 / 20
+- Kiểu hiển thị: Year–Month, Month–Day, Day, No-marking
 
-### THÔNG SỐ KỸ THUẬT (tham khảo)
+**Thương hiệu**
+- YAS-TEK
+
+**Mã sản phẩm**
+- Year–Month: C-DT / C-DTS
+- Month–Day/Day/No-marking: C-DTD / C-DTE / C-DTF / C-DTG / C-DTN
+- Year–Month combo: C-DTBB
+
+**Tập tin đính kèm**
+- File PDF catalog: integral-date-marked-pins (trong thư mục sản phẩm)
+- File thiết kế: 30-integral-date-marked-pins.psd
+
+### 3. THÔNG SỐ KỸ THUẬT
+
 | Thông số | Ký hiệu | Giá trị | Đơn vị | Ghi chú |
 | --- | --- | --- | --- | --- |
-| Đường kính | D h7 | 3~20 | mm | Theo kiểu
-| Chiều dài tổng | L | Theo bảng | mm | ±0.02
-| Độ cứng | H | 50~53 | HRC | SUS420
-| Ren giữ | M×P | M1.6~M4 | - | Theo cỡ
-| Kiểu khắc | - | Year/Month/Day/No-marking | - | C-DT, C-DTS, C-DTD, C-DTE, C-DTF, C-DTG, C-DTN, C-DTBB
+| Đường kính | D | 3~20 | mm | Dm6 |
+| Chiều dài | L | 10~20 | mm | $\pm 0.02$ |
+| Đường kính lõi | d | 1.9~5.3 | mm | Theo cỡ |
+| Độ cứng | - | 50~53 | HRC | SUS420 |
+| Kiểu khắc | - | Year/Month/Day/No-marking | - | C-DT, C-DTS, C-DTD, C-DTE, C-DTF, C-DTG, C-DTN, C-DTBB |
 
-### HƯỚNG DẪN ĐẶT HÀNG
+### 4. BẢNG KÍCH THƯỚC TIÊU CHUẨN (tóm lược)
+
+| D | d | L | Đơn vị | Ghi chú |
+| --- | --- | --- | --- | --- |
+| 3 | 1.9 | 10 | mm | C-DT/C-DTS |
+| 4 | 2.3 | 10 | mm | C-DT/C-DTS |
+| 5 | 2.9 | 10 | mm | C-DT/C-DTS |
+| 6 | 3.9 | 10 | mm | C-DT/C-DTS |
+| 8 | 4.9 | 12 | mm | C-DTD/C-DTE/C-DTF/C-DTG/C-DTN |
+| 10 | 5.5 | 14 | mm | C-DTD/C-DTE/C-DTF/C-DTG/C-DTN |
+| 12 | 7.4 | 16 | mm | C-DTD/C-DTE/C-DTF/C-DTG/C-DTN |
+| 16 | 8.7 | 20 | mm | C-DTD/C-DTE/C-DTF/C-DTG/C-DTN |
+| 20 | 8.7 | 20 | mm | C-DTBB |
+
+### 5. HƯỚNG DẪN ĐẶT HÀNG
+
+**Order Example / Ví dụ đặt hàng**
 - Cú pháp: C-DT[Kiểu][D] [Year]
-- Ví dụ: C-DTS8 24 → chốt ngày liền khối D8, kiểu Year-Month, năm 2024.
+- Ví dụ: C-DTS8 24
 
-### HÌNH ẢNH / FILE ĐÍNH KÈM
-- Catalog/info PDF: integral-date-marked-pins_*.pdf trong thư mục
-- PSD: 30-integral-date-marked-pins.psd
+**Tùy chỉnh đặc biệt**
+- Year–Month: C-DT, C-DTS.
+- Month–Day/Day/No-marking: C-DTD/C-DTE/C-DTF/C-DTG/C-DTN.
+- Year–Month combo: C-DTBB.
 
-### SEO
-- URL: /linh-kien-khuon-ep-nhua/chot-ngay-lien-khoi-c-dt
-- Page title: Chốt ngày liền khối C-DT - YAS-TEK
-- Meta description: Chốt ngày liền khối C-DT, SUS420 50~53HRC, cỡ D3~20, kiểu năm-tháng-ngày, lắp cố định đánh dấu sản phẩm.
-- Keywords: integral date pin, C-DT, C-DTS, C-DTD, C-DTE, date insert, SUS420, YAS-TEK
+### 6. HÌNH ẢNH
+
+**Yêu cầu hình ảnh cần tải lên**
+- Ảnh sản phẩm thực tế (đã xóa watermark/logo nguồn hàng)
+- Ảnh bản vẽ kỹ thuật và bảng kích thước (đã xóa thông tin nhà sản xuất gốc)
+- Logo YAS-TEK thay thế logo nguồn
+- Tối thiểu 3–5 ảnh chất lượng cao
+
+### 7. BIẾN THỂ SẢN PHẨM
+
+**Thuộc tính sản phẩm**
+- Kiểu hiển thị: Year–Month / Month–Day / Day / No-marking
+- Đường kính: D 3–20
+- Dòng: C-DT / C-DTS / C-DTD / C-DTE / C-DTF / C-DTG / C-DTN / C-DTBB
+
+### 8. KÊNH BÁN HÀNG
+
+- ☐ Website chính
+- ☐ Lazada.vn
+- ☐ Tiki.vn
+- ☐ Shopee.vn
+- ☐ Tiktok Shop
+
+### 9. CẤU HÌNH CHUNG
+
+**Hiển thị sản phẩm**
+- ☐ Tiêu biểu
+
+**Nhãn/Tags**
+- integral date pin, C-DT, C-DTS, C-DTD, C-DTE, C-DTF, C-DTG, C-DTN, C-DTBB, SUS420, date insert, khuon ep nhua, YAS-TEK
+
+### 10. SEO
+
+**Đường dẫn**
+- /linh-kien-khuon-ep-nhua/chot-ngay-lien-khoi-c-dt
+
+**Tiêu đề trang**
+- Chốt ngày liền khối C-DT - YAS-TEK | YAS-TEK
+
+**Mô tả trang**
+- Chốt ngày liền khối C-DT bằng SUS420 (50–53 HRC), khắc sẵn vòng năm/tháng/ngày, lắp cố định cho khuôn ép nhựa. Dải D 3–20 mm, L $\pm 0.02$ mm, nhiều kiểu Year–Month/Month–Day/Day/No-marking, giúp đánh dấu ngày sản xuất ổn định và bền mài mòn.
+
+**Từ khóa SEO**
+- integral date pin, C-DT, C-DTS, C-DTD, C-DTE, C-DTF, C-DTG, C-DTN, C-DTBB, SUS420, year month day insert, injection mold date mark, YAS-TEK
