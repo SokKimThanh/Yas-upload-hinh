@@ -19,4 +19,4 @@ SLIDE 6 – GẮN FILE & HÌNH
 “Chúng ta đính kèm file PDF catalog vào thư mục sản phẩm, gắn ảnh sản phẩm và bản vẽ vào mục Hình ảnh. Yêu cầu tối thiểu 3 đến 5 ảnh rõ nét, để hiển thị tốt trên website.”
 
 SLIDE 7 – UPLOAD & PUBLISH
-“Cuối cùng là upload lên website. Tạo sản phẩm mới trong CMS, dán nội dung, upload ảnh và file PDF, rồi điền URL, title, meta description và tags. Trước khi publish, hãy preview trên desktop và mobile, kiểm tra định dạng, link file và lỗi chính tả.”
+“Cuối cùng là upload lên website. Tạo sản phẩm mới trong CMS, dán nội dung, upload ảnh và file PDF, rồi điền URL, title, meta description và tags. Trước khi publish, hãy preview trên desktop và mobile, kiểm tra định dạng, link file và lỗi chính tả. Lưu ý: ignorr không lưu video.”
