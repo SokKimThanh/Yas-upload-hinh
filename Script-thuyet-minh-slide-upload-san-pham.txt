@@ -1,0 +1,22 @@
+SCRIPT LỜI THOẠI THEO SLIDE – QUY TRÌNH UPLOAD SẢN PHẨM
+
+SLIDE 1 – TIÊU ĐỀ
+“Chào anh chị. Trong slide này, tôi trình bày quy trình upload sản phẩm từ lúc nhận file PDF kỹ thuật, tạo hình ảnh sản phẩm, cho đến khi đăng lên website. Mục tiêu là chuẩn hóa dữ liệu, đảm bảo hình ảnh sạch logo nguồn và nội dung đúng chuẩn YAS-TEK.”
+
+SLIDE 2 – TIẾP NHẬN TÀI LIỆU
+“Bước đầu tiên là tiếp nhận file PDF catalog hoặc tài liệu kỹ thuật. Chúng ta kiểm tra đủ thông tin về kích thước, vật liệu, dung sai và mã sản phẩm. Sau đó tạo thư mục sản phẩm theo cấu trúc: danh mục, rồi đến mã sản phẩm.”
+
+SLIDE 3 – TRÍCH XUẤT THÔNG TIN
+“Tiếp theo là trích xuất thông tin từ PDF để lập file info.txt. Ở bước này cần chuẩn hóa tên sản phẩm tiếng Việt, tiếng Anh và mã sản phẩm. Đặc biệt, loại bỏ hoàn toàn thương hiệu nguồn và chỉ sử dụng thương hiệu YAS-TEK.”
+
+SLIDE 4 – CHUẨN BỊ HÌNH ẢNH
+“Sau khi có dữ liệu, chúng ta xuất hình từ PDF như bản vẽ và bảng kích thước. Tất cả ảnh phải xóa logo hoặc watermark của nhà cung cấp, sau đó thay bằng logo YAS-TEK. Tên ảnh được chuẩn hóa và lưu trong thư mục IMG.”
+
+SLIDE 5 – VIẾT NỘI DUNG WEBSITE
+“Bước kế tiếp là viết nội dung website dựa trên file info.txt theo cấu trúc 10 mục. Mô tả ngắn viết thành đoạn văn, thông số trình bày dạng bảng. Cuối cùng kiểm tra từ khóa, URL, page title và meta description theo chuẩn SEO.”
+
+SLIDE 6 – GẮN FILE & HÌNH
+“Chúng ta đính kèm file PDF catalog vào thư mục sản phẩm, gắn ảnh sản phẩm và bản vẽ vào mục Hình ảnh. Yêu cầu tối thiểu 3 đến 5 ảnh rõ nét, để hiển thị tốt trên website.”
+
+SLIDE 7 – UPLOAD & PUBLISH
+“Cuối cùng là upload lên website. Tạo sản phẩm mới trong CMS, dán nội dung, upload ảnh và file PDF, rồi điền URL, title, meta description và tags. Trước khi publish, hãy preview trên desktop và mobile, kiểm tra định dạng, link file và lỗi chính tả.”
