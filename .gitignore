@@ -416,3 +416,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Video files
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.flv
+*.webm
+*.m4v
