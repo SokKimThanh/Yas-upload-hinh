@@ -1,0 +1,133 @@
+
+1
+
+Automatic Zoom
++ 0.012
++ 0.001
++ 0.015
++ 0.002
++ 0.018
++ 0.002
+13
+16
+20
+25
+30
+32
+35
+42
+13
+16
+20
+25
+30
+32
+35
+42
+TPN
+DK6 Part Number
+TYPE D A°
+1
+3
+5
+10
+F
+L + 0.1+ 0.2
+D
+M
+3 C1D－0.03
+－0.01
+A°D V
+L + 0.1+ 0.2
+M
+C1 3 D－0.03－0.01
+1
+R0.5
+(2L+2)
+1 10.40.2
+E
+A°
+(Reference value)
+② Bushing①Pin
+Dimensions when combined
+3max ++
+SKD11 58~62HRC
+13
+16
+20
+25
+30
+32
+35
+42
+14
+14
+19
+24
+29
+29
+34
+39
+10
+10
+12
+16
+20
+20
+24
+24
+7
+10
+13
+16
+20
+20
+24
+30
+6
+6
+9
+12
+15
+15
+18
+24
+5
+5
+8
+11
+14
+14
+17
+23
+M4
+M5
+M6
+M8
+M10
+M10
+M12
+M12
+D L V E F M
+① Pin ② Setting tap 
+for Bushing
+M4
+M5
+M6
+M8
+M10
+M10
+M12
+M12
+TYPE
+TPN16
+D A
+3
+Order Example
+TPN
+HUAN SIN COMPANY LIMITEDTAPERED PIN SET / STANDARD INSTALLATION TYPE SKD11
+錐度精定位銷組件/標準安裝(SKD11)
+Standard type
+www.khoathinh.com
+Components for Positioning
+TPN
