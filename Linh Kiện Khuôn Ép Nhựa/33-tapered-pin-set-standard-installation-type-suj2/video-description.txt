@@ -1,0 +1,27 @@
+TIÊU ĐỀ
+Từ ảnh thô -> bộ ảnh sản phẩm chuẩn upload | Quy trình Photoshop thực chiến
+
+MÔ TẢ
+Trong video này, mình chia sẻ quy trình xử lý ảnh sản phẩm để upload: từ chuẩn bị ảnh, tách hình chính bằng Select and Mask, tách bảng thông số bằng Color Range, đến ghép bộ ảnh và thiết kế chữ tiêu đề nghệ thuật. Quy trình này giúp bộ ảnh đồng nhất, dễ nhìn, và chuẩn đăng tải lên website/kênh bán hàng.
+
+NỘI DUNG CHÍNH
+- Soạn và sắp xếp ảnh trước khi vào Photoshop
+- Cắt hình chính bằng Select and Mask
+- Cắt bảng thông số bằng Color Range
+- Ghép từng hình đơn thành bộ ảnh
+- Thiết kế chữ tiêu đề nghệ thuật
+
+CHAPTERS (GỢI Ý)
+00:00 Intro
+00:20 Soạn ảnh & sắp xếp thư mục
+00:45 Select and Mask (tách hình chính)
+01:20 Color Range (tách bảng thông số)
+01:50 Ghép bộ ảnh
+02:15 Chữ tiêu đề nghệ thuật
+02:40 Tổng kết
+
+CTA
+Nếu thấy hữu ích, hãy like và subscribe để xem thêm những thủ thuật thực tế khi upload sản phẩm.
+
+HASHTAGS
+#photoshop #tachnen #selectandmask #colorrange #thietkeanh #uploadsanpham

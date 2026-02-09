@@ -1,0 +1,23 @@
+SLIDE 1: Từ ảnh thô → bộ ảnh sản phẩm chuẩn upload
+Hôm nay mình chia sẻ toàn bộ quy trình xử lý ảnh sản phẩm để upload: từ tách nền, ghép bộ ảnh, đến làm tiêu đề nghệ thuật. Đây là kỹ năng mình dùng hằng ngày khi làm sản phẩm mới.
+
+SLIDE 2: Bạn sẽ học gì trong video này
+Mình sẽ đi từng phần: chuẩn bị ảnh, tách hình chính bằng Select and Mask, tách bảng thông số bằng Color Range, rồi ghép ảnh và làm tiêu đề nghệ thuật.
+
+SLIDE 3: Bước 1: Soạn ảnh trước khi vào Photoshop
+Mẹo đầu tiên là soạn ảnh trước khi vào Photoshop: đặt tên ảnh theo thứ tự, tách riêng ảnh sản phẩm, bảng thông số, và ảnh chi tiết. Làm bước này nhanh hơn về sau rất nhiều.
+
+SLIDE 4: Bước 2: Cắt hình chính bằng Select and Mask
+Phần tách hình chính, mình dùng Select and Mask để lấy viền sắc và sạch. Lưu ý tinh chỉnh Radius, Smooth, và Decontaminate Colors để viền mượt, không bị lem.
+
+SLIDE 5: Bước 3: Cắt bảng và thông số bằng Color Range
+Với bảng và thông số, Color Range là cách nhanh nhất. Mình chọn vùng màu nền rồi đảo ngược vùng chọn để giữ lại chữ và đường nét.
+
+SLIDE 6: Bước 4: Ghép từng hình đơn thành bộ ảnh
+Sau khi đã tách xong, mình ghép từng hình đơn thành một bộ ảnh hoàn chỉnh. Mục tiêu là dễ nhìn, đồng nhất và đúng thứ tự thông tin.
+
+SLIDE 7: Bước 5: Chữ tiêu đề nghệ thuật
+Cuối cùng là phần chữ tiêu đề. Mình chỉnh font, tracking, và hiệu ứng nhẹ để ảnh nhìn chuyên nghiệp hơn mà vẫn dễ đọc.
+
+SLIDE 8: Bắt đầu thôi
+Nếu bạn đang làm upload sản phẩm, đây là quy trình cực kỳ thực dụng. Giờ mình bắt đầu từng bước chi tiết nhé!
