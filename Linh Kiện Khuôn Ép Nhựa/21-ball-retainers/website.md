@@ -1,35 +1,43 @@
-### 1. THÔNG TIN CƠ BẢN
+# 1. THÔNG TIN CƠ BẢN
 
-**Tên sản phẩm**
+#### Tên sản phẩm
+
 - Tên tiếng Việt: Bạc giữ bi (ống giữ bi) EMBS
 - Tên tiếng Anh: Ball Retainers EMBS
 - Mã sản phẩm: EMBS
 
-**Miêu tả ngắn**
+#### Miêu tả ngắn
+
 Ống giữ bi EMBS dùng cho cụm dẫn hướng bi, giúp giảm ma sát và phân bổ lực đều. Kết cấu ống bằng đồng C3604 kết hợp bi SUJ2 cho chuyển động êm và độ chính xác cao.
 
-**Nội dung chi tiết**
+#### Nội dung chi tiết
+
 EMBS là ball retainer chuyên dụng cho hệ thống dẫn hướng trong khuôn ép nhựa và khuôn dập. Ống giữ bi bằng đồng C3604 giúp giảm trọng lượng và ổn định chuyển động, trong khi bi SUJ2 được nhiệt luyện cho độ cứng cao, chống mài mòn. Nhiều kích thước d và chiều dài L đáp ứng đa dạng yêu cầu thiết kế khuôn, giúp tăng tuổi thọ và độ ổn định khi vận hành.
 
 ### 2. CHI TIẾT SẢN PHẨM
 
-**Danh mục sản phẩm**
+#### Danh mục sản phẩm
+
 - Danh mục chính: Linh Kiện Khuôn Ép Nhựa
 - Danh mục phụ: Hệ thống dẫn hướng bi
 
-**Đặc điểm sản phẩm**
+#### Đặc điểm sản phẩm
+
 - Vật liệu: C3604 (ball retainer), SUJ2 (ball)
 - Độ cứng bi: ~58 HRC (SUJ2 nhiệt luyện)
 - Dung sai: Theo tiêu chuẩn dòng EMBS (tham khảo catalog)
 - Phạm vi kích thước: d 8 / 10 / 13 / 16 / 20 / 25 / 30; d1 11.5~33.5; L 25~70 mm
 
-**Thương hiệu**
+#### Thương hiệu
+
 - YAS-TEK
 
-**Mã sản phẩm**
+#### Mã sản phẩm
+
 - EMBS
 
-**Tập tin đính kèm**
+#### Tập tin đính kèm
+
 - File PDF catalog: ball-retainers_1696321246.pdf
 - File thiết kế: 21-ball-retainers.psd
 
@@ -57,17 +65,20 @@ EMBS là ball retainer chuyên dụng cho hệ thống dẫn hướng trong khu�
 
 ### 5. HƯỚNG DẪN ĐẶT HÀNG
 
-**Order Example / Ví dụ đặt hàng**
+#### Order Example / Ví dụ đặt hàng
+
 - Cú pháp: EMBS[d] L[chiều dài]
 - Ví dụ: EMBS20 L45 → d=20 mm, L=45 mm
 
-**Tùy chỉnh đặc biệt**
+#### Tùy chỉnh đặc biệt
+
 - Chọn chiều dài L theo bảng kích thước tiêu chuẩn.
 - Các dải kích thước khác tham khảo theo catalog.
 
 ### 6. HÌNH ẢNH
 
-**Yêu cầu hình ảnh cần tải lên**
+#### Yêu cầu hình ảnh cần tải lên
+
 - Ảnh sản phẩm thực tế (đã xóa watermark/logo nguồn hàng)
 - Ảnh bản vẽ kỹ thuật và bảng kích thước (đã xóa thông tin nhà sản xuất gốc)
 - Logo YAS-TEK thay thế logo nguồn
@@ -75,7 +86,8 @@ EMBS là ball retainer chuyên dụng cho hệ thống dẫn hướng trong khu�
 
 ### 7. BIẾN THỂ SẢN PHẨM
 
-**Thuộc tính sản phẩm**
+#### Thuộc tính sản phẩm
+
 - Kích thước: d, d1, L
 - Vật liệu: C3604 / SUJ2
 
@@ -89,22 +101,28 @@ EMBS là ball retainer chuyên dụng cho hệ thống dẫn hướng trong khu�
 
 ### 9. CẤU HÌNH CHUNG
 
-**Hiển thị sản phẩm**
+#### Hiển thị sản phẩm
+
 - ☐ Tiêu biểu
 
-**Nhãn/Tags**
+#### Nhãn/Tags
+
 - ball retainer, EMBS, bac giu bi, ong giu bi, C3604, SUJ2, dan huong bi, linh kien khuon ep nhua, ball guide, YAS-TEK
 
 ### 10. SEO
 
-**Đường dẫn**
+#### Đường dẫn
+
 - /linh-kien-khuon-ep-nhua/ball-retainer-embs
 
-**Tiêu đề trang**
+#### Tiêu đề trang
+
 - Ball Retainer EMBS d8~30 - YAS-TEK | YAS-TEK
 
-**Mô tả trang**
+#### Mô tả trang
+
 - Ống giữ bi EMBS bằng đồng C3604 kết hợp bi SUJ2, dùng cho hệ thống dẫn hướng bi trong khuôn ép nhựa và khuôn dập. Dải d 8–30 mm, d1 11.5–33.5 mm, nhiều chiều dài L 25–70 mm, giảm ma sát, tăng độ chính xác và tuổi thọ cụm dẫn hướng.
 
-**Từ khóa SEO**
+#### Từ khóa SEO
+
 - ball retainer, EMBS, bac giu bi, ong giu bi khuon, dan huong bi, C3604, SUJ2 ball, ball guide bushing, linh kien khuon ep nhua, khuon dap, chinh xac dan huong, giam ma sat, YAS-TEK
