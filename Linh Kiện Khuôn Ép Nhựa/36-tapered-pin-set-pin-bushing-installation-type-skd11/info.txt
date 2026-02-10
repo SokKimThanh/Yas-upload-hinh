@@ -1,0 +1,171 @@
+
+1
+
+Automatic Zoom
++ 0.012
++ 0.001
++ 0.015
++ 0.002
++ 0.018
++ 0.002
+13
+16
+20
+25
+30
+35
+42
+13
+16
+20
+25
+30
+35
+42
+TPVX
+DK6
+Part Number
+TYPE D A°
+1
+3
+5
+13
+16
+20
+25
+30
+35
+42
+14
+14
+19
+24
+29
+34
+39
+10
+12
+14
+16
+22
+24
+30
+6
+6
+7
+10
+13
+16
+21
+5
+5
+7
+10
+13
+16
+21
+M3
+M4
+M5
+M6
+M8
+M10
+M12
+D L V E EF
+3.3
+4.4
+3.3
+4.4
+5.4 5.4
+6.5
+8.6
+10.8
+7
+9
+11
+13 13
+8.7
+5.6
+8.6
+11.5
+13.4
+15.2
+19
+4.4
+5.4
+6.4
+8.6
+11
+13
+15
+6.5
+8
+9.5
+11
+14
+17.5
+20
+H d
+① Pin Bolt for mounting
+   Pin - Bushing  Escape hole 
+on pin bottom
+M4
+M5
+M6
+M8
+M10
+M12
+M14
+N (n) Escape hole diameter 
+       on pin bottom
+J
+Order Example
+TYPE
+TPVX20
+D A
+1
+R0.5
+② Bushing①Pin
+Dimensions when combined
+About N dimension
+As shown  in the figure, 
+the bushing can be easily 
+removed by screwing
+a bolt into its tap (N) 
+and extracting it.
+SKD11 58~62HRC
+TPVX
+HUAN SIN COMPANY LIMITEDTAPERED PIN SET / PIN-BUSHING PL INSTALLATION TYPE SKD11
+錐度精定位銷組件/銷-套分型面安装型
+How to Mount
+TPVX
+L
+F H
+3
+D
+D －0.01－0.03
+＋0.2＋0.1
+A°
+N(Dismounting tap hole)
+d
+E1
+V
+11
+k6 k6
+(n)
+3
+D
+DC －0.01－0.03
+A°
+E
+N(Dismounting tap hole)
+(2L＋2)
+1
+1 ＋0.4
+＋0.2(Reference value)
+1C
+L＋0.2＋0.1
+1
+J
+www.khoathinh.com
+Components for Positioning

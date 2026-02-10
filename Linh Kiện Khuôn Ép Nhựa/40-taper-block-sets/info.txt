@@ -1,0 +1,271 @@
+
+1
+
+Automatic Zoom
+HUAN SIN COMPANY LIMITEDTAPERED BLOCK SETS
+TBS 錐度定位塊組件
+TYPE
+TBS35
+L K
+40 3
+Order Example
+TBS SKD11 58~62HRC
+Group Part Number   V dimension symmetry
+against A plane
+(Match mark 
+type)
+To add fitting processing, not applicable 
+to combination with other than sets. 
++0.02
+0
+HT A
+Standard
+Mounting bolt hole: 2 (L30 ~ 120)
+2－C0.5
+＋0.2
+    0
+E
+t
+d
+2＋0.2
+＋0.1
+T
+4－C1
+＋0.1
+＋0.3
+4－C3 ＋0.1
+＋0.3
+4－C3
+L －0.5
+L
+1
+2
+L
+K°
+4－C1
+2－C0.5
+V
+d
+t   0
+－0.2
+E
+＋0.2
+＋0.1
+1
+T
+N N
+AA
+(Dismounting tap hole) (Dismounting tap hole)
+①Pin ②Bushing
+L 50 L 0－0.3
+L 60 L－0.2
+－0.5
+≤
+≤
+Mounting bolt hole: 1 (L20 ~ 25, excpet A12 and A16)
+L 2 L 2
+K° 2－C0.5
+＋0.2
+    0
+E
+t
+d
+2＋0.2
+＋0.1
+T
+4－C14－C1
+2－C0.5
+V
+d
+t   0
+－0.2
+E
+   0
+＋0.2
+＋0.1
+1
+T
+＋0.1＋0.34－C3 ＋0.1＋0.34－C3A
+－0.3
+L －0.5
+L    0
+－0.3
+A
+L
+N N
+(Dismounting tap hole) (Dismounting tap hole)
+①Pin ②Bushing
+Mounting bolt hole: 1 (A12 and A16 only)
+L 2 L 2
+K°
+4－C1
+2－C0.5
+V
+0
+－0.2
+E＋1
+   0
+－0.3
+＋0.2
+＋0.1
+1
+T
+＋ 0.1＋ 0.34 －  * C
+L －0.5
+L    0
+－0.3
+＋0.1
+＋0.3
+4－   C
+L
+2－C0.5
+＋0.2
+    0
+E
+2＋0.2
+＋0.1
+T
+4－C1 M ×M ×
+A A
+①Pin ②Bushing
+A12 C2
+A16 C3
+＋0.4
+＋0.2
+T
+2
+1
+T
+T
+1
+1 PL(Reference value)
+Match mark
+Dimensions when combined
+T T T T
+TT
+  * 
+  * 
+V E T T T d t
+Part Number
+1520
+20
+2025
+253040202530402530403040504050751006090120
+Selection
+K°Selection
+LAType
+Installation
+bolts11 2
+2 Tap Tap hole
+N M ×
+M3 × 6
+M4 × 6
+No. of
+bolt holes
+12
+30
+35
+65
+45
+20
+25
+16
+TBS
+1(Tap hole)
+1
+1
+2
+1
+1
+2
+2
+(Tap hole)
+M3
+M4
+M10
+M4
+M5
+M6
+M8
+M3 bolt
+M4 bolt
+M8 bolt
+M3 bolt
+M4 bolt 
+M5 bolt 
+M6 bolt
+Bolt hole
+3.5
+5
+6
+7
+9
+6.5
+8
+9
+11
+14
+7.5 15
+10
+14
+17
+20
+22
+29
+39
+7
+9
+10
+11
+14
+19
+23
+2815
+3217
+35
+45
+60
+10
+15
+20
+20
+25
+35
+20
+7.5 15
+10 20
+7.5 15
+7.5 15
+20
+30
+20
+30
+40
+60
+30
+50
+60
+10
+17.5
+20
+15
+20
+30
+10
+20
+57
+9
+12
+7
+8
+1
+3
+5
+3
+5
+ * The height of the pin is E + 1mm for A12 and A16.
+*
+*
+www.khoathinh.com
+Components for Positioning
+TBS

@@ -1,0 +1,153 @@
+
+1
+
+Automatic Zoom
++ 0.012
++ 0.001
++ 0.015
++ 0.002
++ 0.018
++ 0.002
+13
+16
+20
+25
+30
+32
+35
+42
+13
+16
+20
+25
+30
+32
+35
+42
+TPNC
+DK6
+Part Number
+TYPE D A°
+1
+3
+5
+13
+16
+20
+25
+30
+32
+35
+42
+14
+14
+19
+24
+29
+29
+34
+39
+6
+10
+12
+16
+20
+20
+24
+24
+7
+10
+13
+16
+20
+20
+24
+30
+6
+6
+7
+10
+13
+13
+16
+21
+5
+5
+7
+10
+13
+13
+16
+21
+M3
+M5
+M6
+M8
+M10
+M10
+M12
+M12
+D L V E F
+3.3
+5.3
+7
+9
+11
+11
+13
+13
+H M
+① Pin ② ②Bolt for mountingBushing
+M3
+M5
+M6
+M8
+M10
+M10
+M12
+M12
+M4
+M6
+M8
+M10
+M12
+M12
+M14
+M14
+Bushing
+N
+Order Example
+TYPE
+TPNC20
+D A
+3
+D V
+L 0.10.2
+M
+C1 3 D－0.03
+－0.01
+1
+R0.5
+E
+A° A°
+－0.01－0.03D C13
+D
+0.20.1L
+HF 0.40.2
+11
+(2L + 2)
+(Reference value)
+② Bushing①Pin
+Dimensions when combined
+(Dismounting 
+tap hole)
+N
++++ ++
+SKD11 58~62HRC
+TPNC
+HUAN SIN COMPANY LIMITEDTAPERED PIN SET / BUSHING PL INSTALLATION TYPE SKD11
+錐度精定位銷組件/分型面安装型(SKD11)
+Bushing PL installation type
+TPNC
+www.khoathinh.com
+Components for Positioning

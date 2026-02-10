@@ -1,0 +1,134 @@
+
+1
+
+Automatic Zoom
+12
+15
+20
+25
+10 0.5 4
+6
+12 1
+2
+15 28
+20 35 9.5
+23 6.5
+8
+5.5
+4.5
+3.5 M3 bolt
+M5 bolt
+M4 bolt
+M4
+M6
+M5
+8
+28 10
+14
+17
+32 12
+1743
+46
+20
+40
+25
+30
+6
+8
+8
+10
+15
+1550
+19
+25
+28
+TTSB
+L V C P d tT T1 T2
+Bolt hole Part NumberInstallation
+bolts
+Tap
+N Type A E
+V
+①Pin ② Bushing
+Positioning
+Precision
+ 0
+-0.005
++ 0.01
++ 0.005 0.005 ~ 0.015 SKD11 58 ~ 62HRC
+Order Example
+TYPE
+TTSB25
+E
+8
+HUAN SIN COMPANY LIMITEDPOSITIONING STRAIGHT BLOCK SETS - PL INSTALLATION ,SHORT LENGHT
+TTSB 導位固定塊組件
+V
+E0 -0.2
+T1+0.2
++0.1
+E0 -0.2
+T1+0.2
++0.1
+T2+0.2
++0.1
+T2+0.2
++0.1
+4－C1
+2－R0.5
+A 0-0.005
+A 0-0.005 A 0-0.005
+A 0-0.005
+L0 -0.3
+L0 -0.3
+L0
+－0.3
+L0 -0.3
+C
+L 2
+d
+R R
+10
+C0.5
+C
+V
+t
+t
+d
+E+0.5
+E+0.5
+2－R 1
+L 2
+2－R 1
+V
+t
+d
+4－C1
+C
+P
+L 2
+V
+t
+4－C1
+d2－R0.5
+P
+C
+L 2
+② Bushing①Pin
+a section
+Details of a section Details of b section
+b section
+b section
+② Bushing
+a section
+① Pin
+N(Dismounting tap hole) N(Dismounting tap hole)
+N(Dismounting tap hole) N(Dismounting tap hole)
+・ A20・25・30
+・ A40・50
+≤
+≤
+4 -C1
+www.khoathinh.com
+Components for Positioning
+TTSB

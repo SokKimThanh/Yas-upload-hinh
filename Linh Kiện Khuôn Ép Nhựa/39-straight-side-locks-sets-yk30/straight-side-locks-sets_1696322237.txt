@@ -1,0 +1,159 @@
+
+1
+
+Automatic Zoom
+P
+A 0
+－0.005
+Q
+2 - C5
+2 - Ra 10 °
+R0.5V－0.0050
+V +0.005+0.01
+2－Ca
+2－C5P
+T－0.2
+2
+0
+E0
+－0.2
+E
+Q
+2－C1
+A 0－0.005
+1
+d d 2
+L－0.30
+A0.003
+B0.003
+A
+B
+1－0.2
+0
+T
+L－0.3
+0
+L1
+1
+d1 d2
+Details
+①Pin
+②Bushing
+2－C1
+・A30 ~ 80 ・A16 ~ 25
+TSSB
+V
+① Pin ② Bushing
+Positioning
+Precision
+0
+0.005
++ 0.01
++ 0.005 0.005 ~ 0.015 0.003 or less
+V dimension symmetry against 
+A/B plane
+1
+7
+8
+10
+M5 bolt
+M6 bolt
+M8 bolt
+M10 bolt
+M4 bolt11 17
+12
+15
+16
+22
+36
+52
+25
+30
+14
+18
+30
+40
+16
+20
+25
+30
+40
+60
+80
+6
+6
+8
+8
+20
+10
+25
+20
+35
+30
+45
+19
+22
+34
+28
+43
+50
+65
+1
+2
+1
+2
+2
+1
+1
+2
+1
+2
+2
+0.5
+0.5
+1
+0.5
+1
+170
+85
+TSSB
+QRa Ca P d dV T1 1T2 2
+Bolt hole Part NumberInstallation
+bolts L L Type A E1
+6
+7
+12
+14
+5
+9.5
+11
+14
+18
+8
+5.5
+6.6
+8.6
+11
+4.5
+10
+13
+20
+25
+8
+4
+6
+11
+14
+3
+2 - Ra
+SKD11 58 ~ 62HRC
++ 0.5
+Order Example
+TYPE
+TSSB30
+E
+8
+HUAN SIN COMPANY LIMITEDSIDE STRAIGHT BLOCK SETS
+TSSB 直式導位邊鎖組件
+www.khoathinh.com
+Components for Positioning
