@@ -1,0 +1,168 @@
+
+1
+
+Automatic Zoom
+TYPE
+TPNF16
+D E
+7
+Order Example
+TPNF
+HUAN SIN COMPANY LIMITEDPOSITIONING STRAIGHT PIN SETS / STANDARD TYPE
+精定位銷組件/標準安裝
+www.khoathinh.com
+Components for Positioning
+TPNF
+TPNF
+Standard type
+①
+②
+3
+H
+F
+0.003 B
+C1B M
+R1
+L ＋0.2
+＋0.1
+＋0.005    0
+＋0.005
+    0
+－0.01
+ 0.03
+D－
+D
+V
+Bushing②
+V    0－0.005
+3
+M
+ℓ
+ℓ ℓ
+0.003 A
+A C1
+R2
+2 1
+ℓ1
+10°
+E    0
+－0.2
+D－0.03
+－0.01
+D＋0.005    0
+L ＋0.2
+＋0.1
+Details of the tip
+①Pin
+Tip
+1
+ℓ1
+R1S
+When positioning is begun Mold closed
+ SKD11 equivalent
+ 58 ～62HRC
+Installation
+  bolt size M V H F L S D ER 2R      (Effective 
+holding amount)
+Part Number
+Type
+10
+13
+16
+20
+20
+2025
+252530
+713713167
+8
+13
+13
+16
+1611
+11
+M4 4
+5
+7
+5
+6
+8
+10
+10
+1.0 0.5 0.8
+2.5
+5
+5
+6
+9
+9
+11
+11
+11
+18
+23
+14
+2.5
+2.5
+2.5
+2.5
+2.5
+7.5
+6.5
+5.5
+5.5
+8.5
+14.5
+4.5
+4.5
+5.5
+8.5
+8.5
+10.5
+10.5
+10.5
+16.0
+21.0
+12.0
+14.5
+14.5
+14.5
+19.5
+29
+24.5
+34
+39
+19.5
+29.5
+24.5
+24.5
+19.5
+1.0
+1.0 1.5
+1.0 1.5
+0.5 0.8
+2.0
+2.0
+10
+1312
+16 16
+20 20
+M5
+M6
+M8
+M10
+P.L. 1
+As shown in the figure, the
+bushing can be easily removed
+by screwing a bolt into its tap
+(M) and extracting it.
+Characteristics
+Suitable for positioning in precision molds such as connector and electronic
+device.
+It is capable of preventing wear and damage in core pins, since it can be
+positioned before core pins are inlayed.
+When using
+Contacting the pin and bushing when mold is closed may cause damage
+Please leave a clearance of about 1mm on PL
+Use precision leader pins since clearance is fairly small.
+How to Mount About N dimension
+(Dismouting tap hole)
