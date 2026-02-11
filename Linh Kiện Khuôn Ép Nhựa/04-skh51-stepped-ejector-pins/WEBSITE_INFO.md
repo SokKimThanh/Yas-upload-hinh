@@ -1,4 +1,5 @@
 # THÔNG TIN ĐĂNG SẢN PHẨM LÊN WEBSITE
+
 ## SKH51 STEPPED EJECTOR PINS
 
 ---
@@ -6,16 +7,19 @@
 ## THÔNG TIN CƠ BẢN
 
 ### Tên sản phẩm
-```
+
+```text
 SKH51 STEPPED EJECTOR PINS (Chốt Đẩy 2 Bậc SKH51)
 ```
 
 ### Miêu tả ngắn
-```
+
+```text
 Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ESHT (4mm head). Vật liệu thép gió SKH51 chất lượng cao. Đường kính D1.5-12mm, chiều dài L40-350mm, độ chính xác cao. Hỗ trợ gia công mặt phẳng và lỗ chốt theo yêu cầu.
 ```
 
 ### Nội dung chi tiết
+
 ```html
 <h2>SKH51 STEPPED EJECTOR PINS - CHỐT ĐẨY 2 BẬC CHẤT LƯỢNG CAO</h2>
 
@@ -141,7 +145,8 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 
 ## HÌNH ẢNH
 
-### Danh sách ảnh cần upload:
+### Danh sách ảnh cần upload
+
 - [ ] Ảnh sản phẩm chính (main product image)
 - [ ] Ảnh sơ đồ kỹ thuật (technical drawing)
 - [ ] Ảnh so sánh ESH vs ESHT
@@ -154,12 +159,14 @@ Chốt đẩy 2 bậc SKH51 độ cứng 58-60 HRC, loại ESH (JIS head) và ES
 ## CHI TIẾT SẢN PHẨM
 
 ### Danh mục sản phẩm
-```
+
+```text
 Linh Kiện Khuôn Mẫu > Chốt Đẩy > Chốt Đẩy 2 Bậc
 ```
 
 ### Đặc điểm sản phẩm
-```
+
+```text
 - Vật liệu: SKH51 (Thép gió tốc độ cao)
 - Độ cứng: 58-60 HRC
 - Loại: Chốt đẩy 2 bậc (Stepped Ejector Pin)
@@ -169,12 +176,14 @@ Linh Kiện Khuôn Mẫu > Chốt Đẩy > Chốt Đẩy 2 Bậc
 ```
 
 ### Thương hiệu
-```
+
+```text
 YAS-TEK
 ```
 
 ### Mã sản phẩm
-```
+
+```text
 SKH51-STEP-ESH-ESHT
 ```
 
@@ -183,24 +192,30 @@ SKH51-STEP-ESH-ESHT
 ## SEO
 
 ### Đường dẫn (URL Slug)
-```
+
+```text
 skh51-stepped-ejector-pins
 ```
 
 ### Tiêu đề trang (Page Title - Max 70 ký tự)
-```
+
+```text
 SKH51 Stepped Ejector Pins - Chốt Đẩy 2 Bậc Độ Cứng 58-60 HRC
 ```
-*Độ dài: 65 ký tự ✓*
+
+Độ dài: 65 ký tự ✓
 
 ### Mô tả trang (Page Description - Max 360 ký tự)
-```
+
+```text
 Chốt đẩy 2 bậc SKH51 (ESH/ESHT) độ cứng 58-60 HRC chất lượng cao. Vật liệu thép gió SKH51, D1.5-12mm, L40-350mm. Độ chính xác cao, dung sai ketat. Hỗ trợ gia công mặt phẳng 1-4 mặt, lỗ chốt, góc cắt tùy chỉnh. Phù hợp khuôn nhựa, đúc áp lực, dập. Đạt tiêu chuẩn JIS. Giao hàng nhanh, giá tốt. Liên hệ tư vấn!
 ```
-*Độ dài: 333 ký tự ✓*
+
+Độ dài: 333 ký tự ✓
 
 ### Từ khóa SEO
-```
+
+```text
 chốt đẩy 2 bậc, SKH51 stepped ejector pins, chốt đẩy SKH51, ejector pins 2 bậc, chốt khuôn 2 bậc, SKH51 ejector pin, stepped ejector pin, chốt đẩy khuôn nhựa, chốt đẩy chính xác cao, ESH ejector pins, ESHT ejector pins, chốt đẩy thép gió, chốt đẩy độ cứng cao, linh kiện khuôn mẫu, phụ tùng khuôn mẫu, chốt đẩy JIS, mold components, ejector pins Việt Nam, chốt đẩy chất lượng cao
 ```
 
@@ -209,6 +224,7 @@ chốt đẩy 2 bậc, SKH51 stepped ejector pins, chốt đẩy SKH51, ejector 
 ## KÊNH BÁN HÀNG
 
 ### Nền tảng đề xuất
+
 - [x] Website chính (yas-tek.com)
 - [ ] Shopee.vn
 - [ ] Lazada.vn
@@ -220,17 +236,20 @@ chốt đẩy 2 bậc, SKH51 stepped ejector pins, chốt đẩy SKH51, ejector 
 ## CẤU HÌNH CHUNG
 
 ### Thứ tự hiển thị
-```
+
+```text
 100
 ```
 
 ### Trạng thái
+
 - [x] Hiển thị sản phẩm
 - [x] Tiêu biểu
 - [x] Sản phẩm mới
 
 ### Nhãn (Tags)
-```
+
+```text
 SKH51, Chốt Đẩy, Stepped Pin, Mold Components, High Precision, ESH, ESHT, Japanese Standard, 58-60 HRC
 ```
 
@@ -239,7 +258,8 @@ SKH51, Chốt Đẩy, Stepped Pin, Mold Components, High Precision, ESH, ESHT, J
 ## THÔNG TIN BỔ SUNG
 
 ### Chính sách bán hàng
-```
+
+```text
 - Bảo hành: 6 tháng đối với lỗi sản xuất
 - Đổi trả: 7 ngày nếu sản phẩm không đúng thông số kỹ thuật
 - Vận chuyển: Miễn phí cho đơn hàng trên 5 triệu đồng
@@ -247,7 +267,8 @@ SKH51, Chốt Đẩy, Stepped Pin, Mold Components, High Precision, ESH, ESHT, J
 ```
 
 ### Câu hỏi thường gặp (FAQ)
-```
+
+```text
 Q: Sự khác biệt giữa ESH và ESHT là gì?
 A: ESH có đầu JIS tiêu chuẩn, ESHT có đầu 4mm nhỏ gọn hơn, phù hợp không gian hạn chế.
 
@@ -265,7 +286,7 @@ A: SKH51 có độ cứng cao (58-60 HRC), chịu nhiệt và chịu mài mòn t
 
 ## THÔNG TIN LIÊN HỆ
 
-```
+```text
 Website: www.yas-tek.com
 Hotline: [Số điện thoại]
 Email: [Email liên hệ]
@@ -274,10 +295,11 @@ Email: [Email liên hệ]
 
 ---
 
-**Lưu ý:** 
+## Lưu ý
+
 - Cập nhật giá bán sau khi có thông tin từ nhà cung cấp
 - Upload hình ảnh chất lượng cao, nền trắng cho ảnh chính
 - Kiểm tra lại tất cả thông số kỹ thuật trước khi đăng
 - Thiết lập inventory/stock số lượng tồn kho
 
-*File được tạo ngày: 13/01/2026*
+File được tạo ngày: 13/01/2026
