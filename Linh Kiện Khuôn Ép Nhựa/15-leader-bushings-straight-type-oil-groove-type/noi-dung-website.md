@@ -3,6 +3,7 @@
 ## 1. THÔNG TIN CƠ BẢN
 
 **Tên sản phẩm** (Tối đa 250 ký tự):
+
 - **Tên tiếng Việt**: Bạc Dẫn Hướng Thẳng Có Rãnh Dầu - SUJ2 58HRC
 - **Tên tiếng Anh**: Leader Bushing - Straight Type With Oil Groove
 - **Mã sản phẩm**: GBSE
@@ -13,9 +14,11 @@ Bạc dẫn hướng thẳng GBSE với rãnh dầu, được chế tạo từ v
 **Nội dung chi tiết**:
 
 ### Giới thiệu sản phẩm
+
 Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn hướng của khuôn ép nhựa, đặc biệt được thiết kế với rãnh dầu xoắn ốc để tối ưu hóa khả năng bôi trơn. Sản phẩm được sản xuất từ thép công cụ SUJ2 chất lượng cao, qua xử lý nhiệt đạt độ cứng 58HRC, đảm bảo độ bền và độ chính xác vượt trội.
 
 ### Đặc điểm kỹ thuật
+
 - **Vật liệu**: SUJ2 (JIS) - Thép bi chất lượng cao
 - **Độ cứng bề mặt**: 58HRC trở lên
 - **Thiết kế rãnh dầu**: Rãnh xoắn ốc G1.6 độ sâu 0.5-1.0mm
@@ -27,6 +30,7 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 - **Phạm vi chiều dài (L)**: 15mm đến 120mm
 
 ### Ứng dụng
+
 - Hệ thống dẫn hướng trong khuôn ép nhựa
 - Khuôn dập kim loại độ chính xác cao
 - Khuôn đúc áp lực
@@ -34,6 +38,7 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 - Máy móc công nghiệp yêu cầu độ chính xác cao
 
 ### Ưu điểm nổi bật
+
 - **Bôi trơn tối ưu**: Rãnh dầu xoắn ốc G1.6 phân phối dầu đều, giảm ma sát hiệu quả
 - **Độ bền cao**: Vật liệu SUJ2 58HRC chống mài mòn vượt trội
 - **Độ chính xác cao**: Dung sai chặt chẽ theo tiêu chuẩn quốc tế
@@ -46,10 +51,12 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 ## 2. CHI TIẾT SẢN PHẨM
 
 **Danh mục sản phẩm**:
+
 - **Danh mục chính**: Linh Kiện Khuôn Ép Nhựa
 - **Danh mục phụ**: Leader & Ejector Space Components
 
 **Đặc điểm sản phẩm**:
+
 - **Vật liệu**: SUJ2 (Thép bi chất lượng cao)
 - **Độ cứng bề mặt**: 58HRC trở lên
 - **Độ cứng vật liệu nền**: SUJ2 58HRC~
@@ -66,6 +73,7 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 **Mã sản phẩm**: GBSE
 
 **Tập tin đính kèm**:
+
 - File PDF catalog kỹ thuật
 - File hình ảnh bản vẽ kỹ thuật 3D
 - Bảng thông số kích thước chi tiết
@@ -75,7 +83,7 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 ## 3. THÔNG SỐ KỸ THUẬT (Dạng bảng)
 
 | Thông số | Ký hiệu | Giá trị/Phạm vi | Đơn vị | Ghi chú |
-|----------|---------|-----------------|--------|---------|
+| --- | --- | --- | --- | --- |
 | Đường kính trong | d | 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 25, 28, 30, 32, 35, 40, 50, 60 | mm | Dung sai H7 |
 | Đường kính ngoài | D | 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100 | mm | Dung sai m5 |
 | Chiều dài | L | 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100, 110, 120 | mm | Dung sai -0.01/-0.03 |
@@ -88,7 +96,7 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 ### Dung sai đường kính trong (d) - H7
 
 | d (mm) | Dung sai H7 (mm) | Kích thước giới hạn |
-|--------|------------------|---------------------|
+| --- | --- | --- |
 | 4, 5, 6 | +0.014/+0.005 | Trên +0.014, Dưới +0.005 |
 | 8, 9, 10, 11, 12, 13, 14 | +0.015/+0.007 | Trên +0.015, Dưới +0.007 |
 | 16, 18, 20 | +0.017/+0.008 | Trên +0.017, Dưới +0.008 |
@@ -99,7 +107,7 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 ### Dung sai đường kính ngoài (D) - m5
 
 | D (mm) | Dung sai m5 (mm) | Kích thước giới hạn |
-|--------|------------------|---------------------|
+| --- | --- | --- |
 | 15, 20 | +0.015/+0.007 | Trên +0.015, Dưới +0.007 |
 | 25, 30 | +0.017/+0.006 | Trên +0.017, Dưới +0.006 |
 | 35, 40, 45, 50 | +0.020/+0.007 | Trên +0.020, Dưới +0.007 |
@@ -113,7 +121,7 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 ### Bảng tổng hợp kích thước theo đường kính trong (d)
 
 | d (mm) | D (mm) | L có sẵn (mm) |
-|--------|--------|---------------|
+| --- | --- | --- |
 | 4 | 15 | 15 |
 | 5 | 15 | 15 |
 | 6 | 15 | 15 |
@@ -136,7 +144,8 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 | 50 | 60, 70, 80, 90, 100 | 60, 70, 80, 90, 100 |
 | 60 | 80, 90, 100 | 80, 90, 100 |
 
-**Ghi chú**: 
+**Ghi chú**:
+
 - Tổng cộng hơn 200 kích thước tiêu chuẩn có sẵn
 - Các kích thước đặc biệt có thể đặt hàng theo yêu cầu
 - L2 (chiều dài rãnh dầu) = L - (d + 1)
@@ -148,25 +157,31 @@ Bạc dẫn hướng GBSE là linh kiện quan trọng trong hệ thống dẫn 
 ### Order Example (Ví dụ đặt hàng)
 
 **Cấu trúc mã đặt hàng**:
-```
+
+```text
 GBSE - d[size] - L[length]
 ```
 
 **Giải thích thông số**:
+
 - **GBSE**: Mã sản phẩm (Leader Bushing Straight Type with Oil Groove)
 - **d[size]**: Đường kính trong (4-60mm)
 - **L[length]**: Chiều dài (15-120mm)
 
 **Ví dụ cụ thể**:
-```
+
+```text
 GBSE - d25 - L40
 ```
+
 Giải thích:
+
 - GBSE: Bạc dẫn hướng thẳng có rãnh dầu
 - d25: Đường kính trong 25mm
 - L40: Chiều dài 40mm
 
 **Các ví dụ khác**:
+
 - `GBSE-d16-L50`: Đường kính trong 16mm, chiều dài 50mm
 - `GBSE-d20-L60`: Đường kính trong 20mm, chiều dài 60mm
 - `GBSE-d30-L80`: Đường kính trong 30mm, chiều dài 80mm
@@ -182,12 +197,14 @@ Giải thích:
 ### Alterations (Tùy chỉnh đặc biệt)
 
 **Tùy chọn customization**:
+
 - Chiều dài đặc biệt (ngoài bảng tiêu chuẩn)
 - Vật liệu khác (theo yêu cầu)
 - Độ cứng đặc biệt
 - Thiết kế rãnh dầu tùy chỉnh
 
 **Điều kiện đặt hàng tùy chỉnh**:
+
 - Số lượng tối thiểu: 10 chiếc/kích thước
 - Thời gian sản xuất: 15-20 ngày làm việc
 - Liên hệ bộ phận kỹ thuật để được tư vấn chi tiết
@@ -196,9 +213,10 @@ Giải thích:
 
 ## 6. HÌNH ẢNH
 
-### Yêu cầu hình ảnh cần tải lên:
+### Yêu cầu hình ảnh cần tải lên
 
 **Danh sách hình ảnh**:
+
 1. ✅ **Hình ảnh sản phẩm thực tế**
    - Góc nghiêng 45° hiển thị rõ rãnh dầu
    - Góc trực diện
@@ -227,6 +245,7 @@ Giải thích:
    - Thay thế hoàn toàn logo nguồn
 
 **Yêu cầu kỹ thuật**:
+
 - Định dạng: JPG, PNG
 - Độ phân giải: Tối thiểu 1200x1200px
 - Dung lượng: Dưới 2MB/ảnh
@@ -240,24 +259,29 @@ Giải thích:
 ### Thuộc tính sản phẩm (Product Attributes)
 
 **1. Đường kính trong (d)**:
+
 - 4mm, 5mm, 6mm, 8mm, 9mm, 10mm, 11mm, 12mm
 - 13mm, 14mm, 16mm, 18mm, 20mm
 - 25mm, 28mm, 30mm, 32mm, 35mm
 - 40mm, 50mm, 60mm
 
 **2. Đường kính ngoài (D)**:
+
 - 15mm, 20mm, 25mm, 30mm, 35mm, 40mm
 - 45mm, 50mm, 60mm, 70mm, 80mm, 90mm, 100mm
 
 **3. Chiều dài (L)**:
+
 - 15mm, 20mm, 25mm, 30mm, 35mm, 40mm, 45mm, 50mm
 - 56mm, 60mm, 70mm, 80mm, 90mm, 100mm, 110mm, 120mm
 
 **4. Vật liệu**:
+
 - SUJ2 58HRC (Tiêu chuẩn)
 - Tùy chỉnh theo yêu cầu
 
 **5. Xử lý bề mặt**:
+
 - Heat treatment to 58HRC (Tiêu chuẩn)
 - Nitriding (Tùy chọn đặc biệt)
 
@@ -272,9 +296,9 @@ Giải thích:
 
 ## 8. KÊNH BÁN HÀNG
 
-### Đề xuất kênh phù hợp:
+### Đề xuất kênh phù hợp
 
-- ✅ **Website chính** (khoathinh.com / yas-tek.com)
+- ✅ **Website chính** ([khoathinh.com](https://www.khoathinh.com) / [yas-tek.com](https://www.yas-tek.com))
   - Ưu tiên cao
   - Hiển thị đầy đủ thông số kỹ thuật
   - Hỗ trợ tải file CAD, PDF
@@ -298,6 +322,7 @@ Giải thích:
   - Sản phẩm B2B chuyên dụng
 
 **Chiến lược**:
+
 - Ưu tiên website chính + Lazada
 - Shopee cho khách hàng nhỏ lẻ
 - Tập trung SEO và quảng cáo B2B
@@ -306,18 +331,21 @@ Giải thích:
 
 ## 9. CẤU HÌNH CHUNG
 
-### Hiển thị sản phẩm:
+### Hiển thị sản phẩm
+
 - ✅ **Tiêu biểu** (Featured Product)
   - Là sản phẩm quan trọng trong nhóm Leader Bushing
   - Có nhiều ứng dụng phổ biến
   - Kích thước đa dạng
 
-### Nhãn/Tags:
-```
+### Nhãn/Tags
+
+```text
 linh kiện khuôn, linh kiện khuôn ép nhựa, leader bushing, bạc dẫn hướng, straight bushing, oil groove bushing, rãnh dầu, SUJ2, guide bushing, ejector guide, mold components, precision bushing, YAS-TEK, 58HRC, high hardness bushing, plastic mold parts, die components, guide components, injection mold parts, bạc dẫn hướng thẳng, bạc có rãnh dầu
 ```
 
-**Lưu ý**: 
+**Lưu ý**:
+
 - ❌ KHÔNG bao gồm tên thương hiệu nguồn hàng
 - ✅ Chỉ sử dụng YAS-TEK
 - ✅ Tập trung vào từ khóa kỹ thuật và ứng dụng
@@ -326,27 +354,32 @@ linh kiện khuôn, linh kiện khuôn ép nhựa, leader bushing, bạc dẫn h
 
 ## 10. SEO
 
-### Đường dẫn (URL-friendly):
-```
+### Đường dẫn (URL-friendly)
+
+```text
 /linh-kien-khuon-ep-nhua/leader-bushing-straight-type-oil-groove-gbse
 ```
 
-### Tiêu đề trang (70 ký tự):
-```
+### Tiêu đề trang (70 ký tự)
+
+```text
 Bạc Dẫn Hướng Thẳng Rãnh Dầu GBSE SUJ2 58HRC | YAS-TEK
 ```
 
-### Mô tả trang (320-360 ký tú):
-```
+### Mô tả trang (320-360 ký tú)
+
+```text
 Bạc dẫn hướng thẳng GBSE có rãnh dầu xoắn ốc G1.6, chế tạo từ thép SUJ2 58HRC chất lượng cao. Dung sai H7/m5 chính xác, đường kính 4-60mm, chiều dài 15-120mm. Hơn 200 kích thước tiêu chuẩn sẵn có. Ứng dụng trong khuôn ép nhựa, khuôn dập kim loại. Bôi trơn tối ưu, tuổi thọ cao, độ chính xác vượt trội. Giao hàng nhanh toàn quốc. Hotline tư vấn kỹ thuật 24/7.
 ```
 
-### Từ khóa SEO (10-15 từ khóa):
-```
+### Từ khóa SEO (10-15 từ khóa)
+
+```text
 bạc dẫn hướng, leader bushing, bạc rãnh dầu, oil groove bushing, SUJ2 bushing, guide bushing 58HRC, linh kiện khuôn ép nhựa, bạc dẫn hướng thẳng, straight leader bushing, GBSE bushing, precision guide bushing, mold guide components, ejector guide bushing, bạc dẫn khuôn, YAS-TEK bushing
 ```
 
-### Structured Data (Schema.org):
+### Structured Data (Schema.org)
+
 ```json
 {
   "@context": "https://schema.org/",
@@ -389,18 +422,21 @@ bạc dẫn hướng, leader bushing, bạc rãnh dầu, oil groove bushing, SUJ
 ## GHI CHÚ BỔ SUNG
 
 **Thông tin kỹ thuật bổ sung**:
+
 - Rãnh dầu xoắn ốc giúp phân phối dầu bôi trơn đều khắp bề mặt tiếp xúc
 - Độ sâu rãnh 0.5-1.0mm đảm bảo không làm giảm độ cứng vững
 - Dung sai H7/m5 phù hợp với hầu hết hệ thống dẫn hướng tiêu chuẩn
 - Vật liệu SUJ2 có khả năng chống mài mòn tốt hơn SKD61
 
 **Khuyến nghị sử dụng**:
+
 - Bôi trơn định kỳ để tối ưu tuổi thọ
 - Kiểm tra độ mòn sau 500,000 chu kỳ
 - Vệ sinh rãnh dầu định kỳ
 - Sử dụng dầu bôi trơn phù hợp với nhiệt độ làm việc
 
 **Hỗ trợ kỹ thuật**:
+
 - Tư vấn chọn kích thước phù hợp
 - Hỗ trợ file CAD 2D/3D
 - Tư vấn ứng dụng và lắp đặt
